@@ -17,8 +17,21 @@ let nome = 'Héber';
 * Não podem conter espaços ou traços
 nome-completo o correto será camelCase nomeCompleto
 
-* Existe Case Sensitive
-   nomeCliente é diferente de nomecliente
+* Existe Case Sensitive - nomeCliente é diferente de nomecliente
+
+* Não podemos redeclarar variáveis com let
+
+* Não utilize var, Utilize let para variáveis que irão ser alteradas
+
+CONSTANTES
+
+* Constantes não permite apenas ser declarada. É obrigatório já colocar um valor na criação da constante.
+
+* Constantes não permite modificar seu valor.
+
+-> Para descobrir o tipo do conteúdo da variavel utilize a função typeof()
+console.log( typeof(nomeDaVariavel) );
+   - O operador + (adição) fará soma de números, porém com strings fará concatenação.
 
  */
 
