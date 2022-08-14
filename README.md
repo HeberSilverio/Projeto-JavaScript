@@ -1,1 +1,2 @@
-# Projeto-JavasScript
+# Projeto-JavaScript
+Descubrindo tudo sobre JavaScript
