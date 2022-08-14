@@ -1,9 +1,9 @@
 # Projeto-JavaScript
 Descobrindo tudo sobre JavaScript
 
-- [JavaScript - Básico](#general-api-information)
-- [JavaScript - Lógica de programação](#http-return-codes)
-- [JavaScript - Funções (Avançado)](#error-codes)
+- [JavaScript - Básico](#javascript---básico)
+- [JavaScript - Lógica de programação](#javascript---lógica-de-programação)
+- [JavaScript - Funções (Avançado)](#javascript---funções-avançado)
 
 # JavaScript - Básico
 * No JavaScript utilizamos // para comentar linhas
