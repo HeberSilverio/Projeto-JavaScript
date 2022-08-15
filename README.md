@@ -63,6 +63,9 @@ No JavaScript, existem 6 tipos primitivos:
 * Symbol (novo no ECMAScript (en-US) 6)
 Todos os primitivos são imutáveis (não podem ter o seu valor modificado).
 
+
+
+
 # JavaScript - Lógica de programação
 # JavaScript - Funções (Avançado
 # JavaScript - Arrays (Avançado)
