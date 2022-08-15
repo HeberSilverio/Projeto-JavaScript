@@ -4,12 +4,12 @@ Descobrindo tudo sobre JavaScript
 - [JavaScript - Básico](#javascript---básico)
 - [JavaScript - Lógica de programação](#javascript---lógica-de-programação)
 - [JavaScript - Funções (Avançado)](#javascript---funções-avançado)
-- [JavaScript - Arrays (Avançado)](#)
-- [JavaScript - Objeto e Prototypes (Avançado)](#)
-- [JavaScript - Programação Orientada a Objeto (POO)](#)
-- [JavaScript - Assíncrono (Promises, Ajax, Fetch e Async/Await)](#)
-- [JavaScript - Tooling e ES6 Modules (Módulos)](#)
-- [JavaScript - Node, Npm, Express e MongoDB](#)
+- [JavaScript - Arrays (Avançado)](#javascript---arrays-avançado)
+- [JavaScript - Objeto e Prototypes (Avançado)](#javascript---objeto-e-prototypes-avançado)
+- [JavaScript - Programação Orientada a Objeto (POO)](#javascript---programação-orientada-a-objeto-poo)
+- [JavaScript - Assíncrono (Promises, Ajax, Fetch e Async/Await)](#javascript---assíncrono-promises-ajax-fetch-e-asyncawait)
+- [JavaScript - Tooling e ES6 Modules (Módulos)](#javascript---tooling-e-es6-modules-módulos)
+- [JavaScript - Node, Npm, Express e MongoDB](#javascript---node-npm-express-e-mongodb)
 
 
 # JavaScript - Básico
@@ -41,9 +41,27 @@ Descobrindo tudo sobre JavaScript
 
 * Constantes não permite modificar seu valor.
 
--> Para descobrir o tipo do conteúdo da variavel utilize a função typeof()
+* Para descobrir o tipo do conteúdo da variavel utilize a função typeof()
 console.log( typeof(nomeDaVariavel) );
    - O operador + (adição) fará soma de números, porém com strings fará concatenação.
+
+## Dados primitivos
+
+### Resumo
+Um primitivo (valor primitivo, tipo de dados primitivo) é um dado que não é representado através de um Objeto e, por consequência, não possui métodos.
+
+Em detalhes
+Na maior parte do tempo, um valor primitivo é representado diretamente através do mais baixo nível da implementação de uma linguagem.
+
+No JavaScript, existem 6 tipos primitivos:
+
+* String
+* Number
+* Boolean
+* Null
+* undefined
+* Symbol (novo no ECMAScript (en-US) 6)
+Todos os primitivos são imutáveis (não podem ter o seu valor modificado).
 
 # JavaScript - Lógica de programação
 # JavaScript - Funções (Avançado
