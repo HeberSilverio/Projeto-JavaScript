@@ -1,0 +1,18 @@
+body {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+.javaScript {
+   margin-left: 20px;
+   background: #394639;
+   padding: 20px;
+   border-radius: 20px;
+}
+.javaScript h1 {
+   color: bisque;
+}
+#texto {
+   color: #fff;
+}
