@@ -69,7 +69,44 @@ O método split() divide uma String em uma lista ordenada de substrings, coloca 
 ### Sintaxe
 `str.split([separator[, limit]])`
 
+### Exercícios de para armazenar dentro de um array objetos com 4 dados de uma pessoa. 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Aulas/exercicios/Exe-func-array-objetos/GifHTML.gif">
+    <img src="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Aulas/exercicios/Exe-func-array-objetos/GifHTML.gif" alt="Array-Objeto" style="max-width: 40%;">
+</a> </br>
+
 # JavaScript - Lógica de programação
+
+### Operadores
+#### Operadores de comparação
+> maior que
+>= maior que ou igual a
+< menor que
+<= menor que ou igual a
+== igualdade (valor) não recomendado usar
+=== igualdade estrita (valor e tipo)
+!= diferente (valor)
+!== diferente estrito (valor e tipo)
+
+#### Operadores Lógicos
+&& -> And -> E // todas as expressões precisa ser verdadeiras para retornar true
+|| -> Or -> Ou // apenas uma das expressões precisam ser verdadeiras
+! -> Not -> Não //
+ 
+#### Valores avaliados em falso
+false
+0
+'' "" ``
+null / undefined
+NaN
+
+### if, else if, else
+If pode ser usado sozinho
+Sempre que utilizo a palavra else preciso de um if antes
+Eu posso ter vários else if's na checagem
+Só posso ter um else na checagem
+Podemos usar condições sem else if, utilizando apenas if e else
+Mais de um bloco verdadeiro dentro do else if só vai executar o primeiro e destruir o segundo
+
 # JavaScript - Funções (Avançado
 # JavaScript - Arrays (Avançado)
 # JavaScript - Objeto e Prototypes (Avançado)
