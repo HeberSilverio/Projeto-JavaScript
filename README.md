@@ -107,6 +107,10 @@ Só posso ter um else na checagem
 Podemos usar condições sem else if, utilizando apenas if e else
 Mais de um bloco verdadeiro dentro do else if só vai executar o primeiro e destruir o segundo
 
+#### HTML modelo para exercícios
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Aulas/exercicios/Exe-func-array-objetos/GifHTML.gif">
+    <img src="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Aulas/exercicios/Exe-func-array-objetos/GifHTML.gif" alt="Array-Objeto" style="max-width: 40%;">
+</a> </br>
 # JavaScript - Funções (Avançado
 # JavaScript - Arrays (Avançado)
 # JavaScript - Objeto e Prototypes (Avançado)
