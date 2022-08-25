@@ -70,8 +70,8 @@ O método split() divide uma String em uma lista ordenada de substrings, coloca 
 `str.split([separator[, limit]])`
 
 ### Exercícios de para armazenar dentro de um array objetos com 4 dados de uma pessoa. 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Aulas/exercicios/Exe-func-array-objetos/GifHTML.gif">
-    <img src="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Aulas/exercicios/Exe-func-array-objetos/GifHTML.gif" alt="Array-Objeto" style="max-width: 40%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/exercicios/Exe-func-array-objetos/GifHTML.gif">
+    <img src="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/exercicios/Exe-func-array-objetos/GifHTML.gif" alt="Array-Objeto" style="max-width: 40%;">
 </a> </br>
 
 # JavaScript - Lógica de programação
@@ -108,9 +108,18 @@ Podemos usar condições sem else if, utilizando apenas if e else
 Mais de um bloco verdadeiro dentro do else if só vai executar o primeiro e destruir o segundo
 
 #### HTML modelo para exercícios
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Aulas/exercicios/Exe-func-array-objetos/GifHTML.gif">
-    <img src="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Aulas/exercicios/Exe-func-array-objetos/GifHTML.gif" alt="Array-Objeto" style="max-width: 40%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/modelo/assets/img/GifModelo.gif">
+    <img src="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/modelo/assets/img/GifModelo.gif" alt="Array-Objeto" style="max-width: 40%;">
 </a> </br>
+
+#### Calculo de IMC, exercício prático de javaScrip
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/exercicios/TabelaIMC/assets/img/gifTabelaImc.gif">
+    <img src="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/exercicios/TabelaIMC/assets/img/gifTabelaImc.gif" alt="Array-Objeto" style="max-width: 60%;">
+</a> </br>
+
+#### Operação ternária
+
+
 # JavaScript - Funções (Avançado
 # JavaScript - Arrays (Avançado)
 # JavaScript - Objeto e Prototypes (Avançado)
