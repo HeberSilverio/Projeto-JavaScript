@@ -1,6 +1,14 @@
 # Projeto-JavaScript
 Descobrindo tudo sobre JavaScript
 
+A JavaScript foi criada em 1995 por Brendan Eich, um engenheiro da Netscape, e lançada pela primeira vez com o Netscape 2 no início de 1996. Foi inicialmente chamada de LiveScript, mas logo foi rebatizada como JavaScript.
+
+Diferentemente da maioria das linguagens de programação , a linguagem JavaScript não possui o conceito de entrada e saída. Ela é projetada para funcionar como uma linguagem de script em um ambiente de terceiros, e cabe ao ambiente fornecer mecanismos para a comunicação com o mundo exterior. 
+
+### Visão Geral
+
+A JavaScript é uma linguagem dinâmica orientada a objetos; tem tipos e operadores, objetos e métodos. Uma das principais diferenças é que o JavaScript não tem classes; em vez disso, a funcionalidade de classe é realizada por protótipos de objetos. A outra diferença principal é que as funções são objetos, dando as funções a capacidade para armazenar código executável e serem passadas como parametro para qualquer outro objeto.
+
 - [JavaScript - Básico](#javascript---básico)
 - [JavaScript - Lógica de programação](#javascript---lógica-de-programação)
 - [JavaScript - Funções (Avançado)](#javascript---funções-avançado)
@@ -13,7 +21,7 @@ Descobrindo tudo sobre JavaScript
 
 
 # JavaScript - Básico
-* No JavaScript utilizamos // para comentar linhas
+* No JavaScript utilizamos // para comentar linhas 
 
 * Podemos comentar blocos com barra asterístico /**/
 
@@ -56,7 +64,20 @@ Na maior parte do tempo, um valor primitivo é representado diretamente através
 No JavaScript, existem 6 tipos primitivos:
 
 * String
+Você pode converter uma string em um inteiro usando a função embutida parseInt(). 
+Similarmente, você pode fazer a conversão de números de ponto flutuante usando a função embutida parseFloat() que usa a base 10 sempre, ao contrário de seu primo parseInt().
+
+Você também pode usar o operador unário + para converter valores em números:
+
+```
+> + "42"
+42
+```
+
 * Number
+Um valor especial chamado NaN (sigla de "Not a Number ou Não é Número") é retornado se a string não é um valor numérico:
+Você pode testar se é NaN usando a função embutida isNaN():
+
 * Boolean
 * Null
 * undefined
@@ -121,6 +142,11 @@ Mais de um bloco verdadeiro dentro do else if só vai executar o primeiro e dest
 
 
 # JavaScript - Funções (Avançado
+
+### maneiras de declarar funções
+Declaração de função (Function hoisting) Aula 68
+First-class objects Aula 68
+
 # JavaScript - Arrays (Avançado)
 # JavaScript - Objeto e Prototypes (Avançado)
 # JavaScript - Programação Orientada a Objeto (POO)
