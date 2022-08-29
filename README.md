@@ -144,8 +144,17 @@ Mais de um bloco verdadeiro dentro do else if só vai executar o primeiro e dest
 # JavaScript - Funções (Avançado
 
 ### maneiras de declarar funções
-Declaração de função (Function hoisting) Aula 68
-First-class objects Aula 68
+Declaração de função (Function hoisting) - Aula 68
+First-class objects - Aula 68
+Function Expression - Aula 68
+Arrow Function - Aula 68
+Dentro de um objeto - Aula 68
+posso criar esse objeto sem a palavra function e sem os dois pontos - Aula 68
+
+Closures
+Um closure (fechamento) é uma função que se "lembra" do ambiente — ou escopo léxico — em que ela foi criada.  - Aula 70
+
+Podemos retornar qualquer coisa de uma função - podemos return outra função, um objeto, os valores primitivos, um setInterval   - Aula 70
 
 # JavaScript - Arrays (Avançado)
 # JavaScript - Objeto e Prototypes (Avançado)
