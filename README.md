@@ -156,6 +156,11 @@ Um closure (fechamento) é uma função que se "lembra" do ambiente — ou escop
 
 Podemos retornar qualquer coisa de uma função - podemos return outra função, um objeto, os valores primitivos, um setInterval   - Aula 70
 
+#### Calculadora
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/exercicios/TabelaIMC/assets/img/gifTabelaImc.gif">
+    <img src="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/exercicios/TabelaIMC/assets/img/gifTabelaImc.gif" alt="Array-Objeto" style="max-width: 60%;">
+</a> </br>
+
 # JavaScript - Arrays (Avançado)
 # JavaScript - Objeto e Prototypes (Avançado)
 # JavaScript - Programação Orientada a Objeto (POO)

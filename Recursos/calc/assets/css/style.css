@@ -2,7 +2,6 @@
 :root {
   --primary-color: rgb(17, 86, 102);
   --primary-color-darker: rgb(9, 48, 56);
-  --secondary-color: #008000;
 }
 
 * {
@@ -20,7 +19,7 @@ body {
 }
 
 .container {
-  max-width: 440px;
+  max-width: 640px;
   margin: 50px auto;
   background: #fff;
   padding: 20px;
@@ -33,17 +32,14 @@ form input, form label, form button {
   margin-bottom: 10px;
 }
 
-
 form input {
   font-size: 24px;
   height: 50px;
   padding: 0 20px;
-  border-radius: 50px;
-  border: 1px solid #d3d3d3;
 }
 
 form input:focus {
-  outline: 2px solid var(--primary-color);
+  outline: 1px solid var(--primary-color);
 }
 
 form button {
@@ -55,41 +51,31 @@ form button {
   height: 50px;
   cursor: pointer;
   margin-top: 30px;
-  border-radius: 50px;
 }
 
 form button:hover {
   background: var(--primary-color-darker);
 }
 
-form button:active {
-   background: var(--secondary-color);
- }
+.calculadora {
+  width: 400px;
+}
 
- .calculadora {
-   width: 400px;
- }
+.display {
+  font-size: 2em;
+  width: 100%;
+  text-align: right;
+}
 
- .display {
-   font-size: 2em;
-   width: 100%;
-   text-align: right;
- }
 .btn {
-   width: 100%;
-   height: 40px;
-   font-size: 1em;
-   border: none;
-   background: #eaeaea;
-   cursor: pointer;
-}
-.btn:hover {
-   background: #969696;
+  width: 100%;
+  height: 50px;
+  font-size: 1em;
+  border: none;
+  background: #dfdfdf;
+  cursor: pointer;
 }
 
-.btn-eq {
-   background: #8ab4f8;
-   color: #202124;
-   border: 1px solid #8ab4f8;
-   border-radius: 4px;
+.btn:hover {
+  background: #9e9e9e;
 }
