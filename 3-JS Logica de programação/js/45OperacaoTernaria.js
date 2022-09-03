@@ -11,3 +11,4 @@ let corUsuario = null;
 corUsuario = 'pink';
 const corPadrao = corUsuario || 'Preta';
 console.log(corPadrao);
+

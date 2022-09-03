@@ -139,7 +139,7 @@ Mais de um bloco verdadeiro dentro do else if só vai executar o primeiro e dest
 </a> </br>
 
 #### Operação ternária
-
+(condição) ? 'Valor para verdadeiro' : 'Valor para falso';
 
 # JavaScript - Funções (Avançado
 
