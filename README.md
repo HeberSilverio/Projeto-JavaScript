@@ -92,7 +92,7 @@ O método split() divide uma String em uma lista ordenada de substrings, coloca 
 
 ### Exercícios de para armazenar dentro de um array objetos com 4 dados de uma pessoa. 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/exercicios/Exe-func-array-objetos/GifHTML.gif">
-    <img src="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/exercicios/Exe-func-array-objetos/GifHTML.gif" alt="Array-Objeto" style="max-width: 40%;">
+    <img src="https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/exercicios/Exe-func-array-objetos/GifHTML.gif" alt="Array-Objeto" style="max-width: 50%;">
 </a> </br>
 
 # JavaScript - Lógica de programação
@@ -180,9 +180,12 @@ Sintaxe:
 - `.split(' ')` O método split() divide uma String em uma lista ordenada de substrings, coloca essas substrings em um array e retorna o array.
 #### Método Splice
 
+OLHAR O REPOSITÓRIO Anotacoes-Bootcamp/JavaScript/Array
+Utilizar este repositorio para relembrar JavaScript
 
 # JavaScript - Objeto e Prototypes (Avançado)
 # JavaScript - Programação Orientada a Objeto (POO)
 # JavaScript - Assíncrono (Promises, Ajax, Fetch e Async/Await)
 # JavaScript - Tooling e ES6 Modules (Módulos)
 # JavaScript - Node, Npm, Express e MongoDB
+
