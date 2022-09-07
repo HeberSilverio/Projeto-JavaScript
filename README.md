@@ -21,10 +21,7 @@ A JavaScript é uma linguagem dinâmica orientada a objetos; tem tipos e operado
 ##[Dados primitivos](#dados-primitivos)
 
 
-#[JavaScript - Lógica de programação](#javascript---lógica-de-programação)
-##[Operadores](#operadores)
-
-
+- [JavaScript - Lógica de programação](#javascript---lógica-de-programação)
 - [JavaScript - Funções (Avançado)](#javascript---funções-avançado)
 - [JavaScript - Arrays (Avançado)](#javascript---arrays-avançado)
 - [JavaScript - Objeto e Prototypes (Avançado)](#javascript---objeto-e-prototypes-avançado)
