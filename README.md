@@ -9,7 +9,14 @@ Diferentemente da maioria das linguagens de programação , a linguagem JavaScri
 
 A JavaScript é uma linguagem dinâmica orientada a objetos; tem tipos e operadores, objetos e métodos. Uma das principais diferenças é que o JavaScript não tem classes; em vez disso, a funcionalidade de classe é realizada por protótipos de objetos. A outra diferença principal é que as funções são objetos, dando as funções a capacidade para armazenar código executável e serem passadas como parametro para qualquer outro objeto.
 
-- [JavaScript - Básico](#javascript---básico)
+**JavaScript**
+[TOCM]
+
+[TOC]
+
+#[JavaScript - Básico](#javascript---básico)
+##[Variáveis](#javascript---básico)
+
 - [JavaScript - Lógica de programação](#javascript---lógica-de-programação)
 - [JavaScript - Funções (Avançado)](#javascript---funções-avançado)
 - [JavaScript - Arrays (Avançado)](#javascript---arrays-avançado)
