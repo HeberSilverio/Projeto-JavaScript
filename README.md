@@ -10,14 +10,21 @@ Diferentemente da maioria das linguagens de programação , a linguagem JavaScri
 A JavaScript é uma linguagem dinâmica orientada a objetos; tem tipos e operadores, objetos e métodos. Uma das principais diferenças é que o JavaScript não tem classes; em vez disso, a funcionalidade de classe é realizada por protótipos de objetos. A outra diferença principal é que as funções são objetos, dando as funções a capacidade para armazenar código executável e serem passadas como parametro para qualquer outro objeto.
 
 **JavaScript**
+
 [TOCM]
 
 [TOC]
 
 #[JavaScript - Básico](#javascript---básico)
-##[Variáveis](#javascript---básico)
+##[Variáveis](#variáveis)
+##[Constantes](#constantes)
+##[Dados primitivos](#dados-primitivos)
 
-- [JavaScript - Lógica de programação](#javascript---lógica-de-programação)
+
+#[JavaScript - Lógica de programação](#javascript---lógica-de-programação)
+##[Operadores](#operadores)
+
+
 - [JavaScript - Funções (Avançado)](#javascript---funções-avançado)
 - [JavaScript - Arrays (Avançado)](#javascript---arrays-avançado)
 - [JavaScript - Objeto e Prototypes (Avançado)](#javascript---objeto-e-prototypes-avançado)
@@ -60,7 +67,7 @@ A JavaScript é uma linguagem dinâmica orientada a objetos; tem tipos e operado
 console.log( typeof(nomeDaVariavel) );
    - O operador + (adição) fará soma de números, porém com strings fará concatenação.
 
-## Dados primitivos
+### Dados primitivos
 
 ### Resumo
 Um primitivo (valor primitivo, tipo de dados primitivo) é um dado que não é representado através de um Objeto e, por consequência, não possui métodos.
