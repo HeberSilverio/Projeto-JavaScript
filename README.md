@@ -15,10 +15,10 @@ A JavaScript é uma linguagem dinâmica orientada a objetos; tem tipos e operado
 
 [TOC]
 
-#[JavaScript - Básico](#javascript---básico)
-##[Variáveis](#variáveis)
-##[Constantes](#constantes)
-##[Dados primitivos](#dados-primitivos)
+# [JavaScript - Básico](#javascript---básico)
+## [Variáveis](#variáveis)
+## [Constantes](#constantes)
+## [Dados primitivos](#dados-primitivos)
 
 
 - [JavaScript - Lógica de programação](#javascript---lógica-de-programação)
