@@ -62,7 +62,6 @@ body {
    display: flex;
    flex-direction: column;
    margin-bottom: 40px;
-   left: -20px;
 }
 
 .subtitle-text p {
