@@ -1,9 +1,0 @@
-.header_v1_wrapper .page_header {
-	transition: all 0.2s ease-in-out 0s;
-	background-color: transparent;
-}
-
-.header_v1_wrapper .page_header .container-fluid {
-	padding-top: 10px;
-	padding-bottom: 10px;
-}
