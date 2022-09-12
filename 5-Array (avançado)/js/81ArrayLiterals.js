@@ -31,3 +31,7 @@ frutas = [ , 'Maçã', , 'Laranja'];
 
 const frutas = ["Laranja", "Manga"] // Array literal
 const nomes = new Array('Eduardo', 'Maria', 'Joana'); // Construtor de array
+const pessoa = nomes.join(' ');// volta a ser string
+const individuo = "Luiz Otávio Miranda";
+const arrayDaString = individuo.split(' ');// volta a ser array
+console.log(arrayDaString);
