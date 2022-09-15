@@ -1,17 +1,11 @@
 # Projeto-JavaScript
 Descobrindo tudo sobre JavaScript
 
-A JavaScript foi criada em 1995 por Brendan Eich, um engenheiro da Netscape, e lançada pela primeira vez com o Netscape 2 no início de 1996. Foi inicialmente chamada de LiveScript, mas logo foi rebatizada como JavaScript.
-
-Diferentemente da maioria das linguagens de programação , a linguagem JavaScript não possui o conceito de entrada e saída. Ela é projetada para funcionar como uma linguagem de script em um ambiente de terceiros, e cabe ao ambiente fornecer mecanismos para a comunicação com o mundo exterior. 
-
-### Visão Geral
-
-A JavaScript é uma linguagem dinâmica orientada a objetos; tem tipos e operadores, objetos e métodos. Uma das principais diferenças é que o JavaScript não tem classes; em vez disso, a funcionalidade de classe é realizada por protótipos de objetos. A outra diferença principal é que as funções são objetos, dando as funções a capacidade para armazenar código executável e serem passadas como parametro para qualquer outro objeto.
 
 
+## 📋 Índice
 
-# [JavaScript - Básico](#javascript---básico)
+# [JavaScript - Básico](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/1-Basico#javascript---b%C3%A1sico)
 
 - [JavaScript - Lógica de programação](#javascript---lógica-de-programação)
 - [JavaScript - Funções (Avançado)](#javascript---funções-avançado)
@@ -132,3 +126,8 @@ Utilizar este repositorio para relembrar JavaScript
 # JavaScript - Tooling e ES6 Modules (Módulos)
 # JavaScript - Node, Npm, Express e MongoDB
 
+
+## Autor
+Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
+
+<a href="https://www.linkedin.com/in/hebersilverio/" rel="nofollow"><img src="https://camo.githubusercontent.com/c93fed3759c4a34198be7edef401a101e9454245/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d617263696c696f636f72726569612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hebersilverio/" style="max-width:100%;"></a>
