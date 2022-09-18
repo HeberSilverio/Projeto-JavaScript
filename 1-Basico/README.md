@@ -300,6 +300,7 @@ Todos os primitivos são imutáveis (não podem ter o seu valor modificado).
 
 
 ### Operadores
+![]()
 ### Estruturas Condicionais
 ### Arrays
 ### Object
