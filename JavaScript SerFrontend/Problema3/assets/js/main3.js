@@ -12,7 +12,11 @@ let n2 = prompt('Digite outro número');
 n2 = parseInt(n2);
 
 const resultadoMedia = (n1 + n2) / 2;
-
 const exibeMedia = document.querySelector('.media');
-
 exibeMedia.innerHTML += `<p>O número ${n1} mais o número ${n2} tem a média: ${resultadoMedia}. </p>`
+
+const texteBoolean = resultadoMedia > 5;
+const exibeBoolean = document.querySelector('.comparacao');
+exibeBoolean.innerHTML += `<p>A média: ${resultadoMedia} é maior do que o número 5? Resposta: ${texteBoolean}. </p>`
+
+console.log(typeof(texteBoolean));
