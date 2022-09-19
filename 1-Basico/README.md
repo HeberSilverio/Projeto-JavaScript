@@ -300,7 +300,10 @@ Todos os primitivos são imutáveis (não podem ter o seu valor modificado).
 
 
 ### Operadores
-
+##### Operadores Lógicos
+! Não (not) - 1º
+&& E (and) - 2º
+|| Ou (or) - 3º
 ### Estruturas Condicionais
 ### Arrays
 ### Object
