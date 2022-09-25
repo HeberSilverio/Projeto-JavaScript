@@ -9,7 +9,7 @@
    <br>// Mostrar a soma concatenando com o texto "a soma é: ..."
    */
 
-// PROBLEMA 2
+
 // Pedir para o usuário digitar um número
 let n1 = prompt('Digite um número');
 

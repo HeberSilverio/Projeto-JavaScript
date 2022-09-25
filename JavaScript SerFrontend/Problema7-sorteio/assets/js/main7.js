@@ -1,4 +1,4 @@
-// PROBLEMA 2
+// PROBLEMA 7
 // Pedir para o jogador1 digitar um número e jogador2 digitar outros número. Se forem iguais mostrar a mensagem "Empate".
 //Sortear um número entre 0 e 1
 // Se o número sorteado for 0, ganha quem escolher o numero menor
@@ -45,10 +45,6 @@ if(n1 === n2){
    }
    
 }
-
-
-
-
 
 
 

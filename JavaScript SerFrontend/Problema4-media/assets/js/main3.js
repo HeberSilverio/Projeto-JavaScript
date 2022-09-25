@@ -1,4 +1,4 @@
-// PROBLEMA 2
+// PROBLEMA 4
 // Pedir para o usuário digitar dois números e mostrar um boolean indicando se a média for maior que 5
 let n1 = prompt('Digite um número');
 

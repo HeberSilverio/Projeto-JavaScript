@@ -23,12 +23,14 @@ if(nota1 > 0 && nota2 > 0 && media > 5){
 
   // Senão mostra mensagem de reprovação
    alert(`Sua média é ${media}. Você reprovou.`);
-   
 }
 
+/* Usando a condição ou
+if(nota1 === 0 || nota2 === 0 || media <= 5){
+   alert(`Parabéns! Sua média é ${media}`)
+} else {
 
-// alert(`O Jogador1 escolheu ${n1}, O Jogador1 escolheu ${n2}, O numero sorteado foi: ${sorteio}`)
-// const exibeBoolean = document.querySelector('.comparacao');
-// exibeBoolean.innerHTML += `<p>A média: ${resultadoMedia} é maior do que o número 5? Resposta: ${texteBoolean}. </p>`
-
-// console.log(typeof(texteBoolean));
+  // Senão mostra mensagem de reprovação
+   alert(`Sua média é ${media}. Você reprovou.`);
+}
+*/
