@@ -3,7 +3,6 @@
   --primary-color: rgb(17, 86, 102);
   --primary-color-darker: rgb(9, 48, 56);
   --secondary-color: #008000;
-  --terciary-color: #02A698;
 }
 
 * {
@@ -19,9 +18,7 @@ body {
   font-size: 1.3em;
   line-height: 1.5em;
 }
-.promocao {
-   color: var(--terciary-color);
-}
+
 .container {
   max-width: 640px;
   margin: 50px auto;

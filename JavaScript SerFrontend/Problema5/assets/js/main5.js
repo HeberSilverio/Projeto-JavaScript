@@ -23,7 +23,7 @@ if(n1 === n2){
    //Sortear um número entre 0 e 1
    let sorteio = parseInt(Math.random() * 2);
    //mostrar o número sorteado
-   alert(sorteio);
+   alert(`O número sorteado foi: ${sorteio}`);
 
    // Se o número sorteado for 0, ganha quem escolher o numero menor
    if(sorteio === 0){

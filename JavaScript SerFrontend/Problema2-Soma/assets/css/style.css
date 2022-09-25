@@ -10,7 +10,9 @@
   box-sizing: border-box;
   outline: 0;
 }
-
+h3 {
+   margin-bottom: -30px;
+}
 body {
   margin: 0;
   padding: 0;

@@ -1,3 +1,14 @@
+/*
+   <br>// Problema 3
+   <br>// Pedir para o usuário digitar um números 
+   <br>// Converter o número para inteiro
+   <br>// Pedir para o usuário digitar outro número
+   <br>// Converter o segundo número para inteiro
+   <br>// Mostrar a subtração concatenando com o texto "a subtração é: ..."
+   <br>// Mostrar a divisão concatenando com o texto "a divisão é: ..."
+   <br>// Mostrar a soma concatenando com o texto "a soma é: ..."
+   */
+
 // PROBLEMA 2
 // Pedir para o usuário digitar um número
 let n1 = prompt('Digite um número');

@@ -1,4 +1,4 @@
-// PROBLEMA
+// PROBLEMA 1
 // Perguntar o nome do usuário e mostrar mensagem de boas-vindas
 
 const nome = prompt('Digite o seu nome');
