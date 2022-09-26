@@ -66,6 +66,12 @@ https://youtu.be/NErKL9V-jI8
    Mostrar na tela uma mensagem diferente para cada número
 
 ### Problema 9
+// PROBLEMA 9
+// Pedir para o usuário digitar um número e mostrar a tabuada desse número de 1 0 1000.
+// Deve ter a possibilidade do usuário digitar outro número e também de limpar a tabuada gerada previamente
+
 ### Problema 10
 ### Problema 11
 ### Problema 12
+
+Parei no início da Aula 24
