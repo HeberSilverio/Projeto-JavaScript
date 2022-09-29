@@ -1,6 +1,7 @@
 # Projeto-JavaScript
 Descobrindo tudo sobre JavaScript
 
+Inicio da aula 69
 
 
 ## 📋 Índice

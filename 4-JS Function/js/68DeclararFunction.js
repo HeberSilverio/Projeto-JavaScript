@@ -51,3 +51,12 @@ const objeto = {
    }
 };
 objeto.falante();
+
+
+setInterval( 
+   function(){
+
+   },
+
+   1000
+);
