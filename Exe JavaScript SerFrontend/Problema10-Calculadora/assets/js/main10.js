@@ -16,22 +16,22 @@ function escreve(){
 escreve();
 function somar(){
    let n = parseFloat(prompt('Digite outro número'));
-   n1 = n1 + n;
+   n1 += n;
    escreve();
 }
 function subtrair(){
    let n = parseFloat(prompt('Digite outro número'));
-   n1 = n1 - n;
+   n1 -= n;
    escreve();
 }
 function multiplicar(){
    let n = parseFloat(prompt('Digite outro número'));
-   n1 = n1 * n;
+   n1 *= n;
    escreve();
 }
 function dividir(){
    let n = parseFloat(prompt('Digite outro número'));
-   n1 = n1 / n;
+   n1 /= n;
    escreve();
 }
 
