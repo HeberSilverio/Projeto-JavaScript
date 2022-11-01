@@ -74,5 +74,5 @@ https://youtu.be/NErKL9V-jI8
 ### Problema 11
 ### Problema 12
 
-Parei no início da Aula 31
-https://youtu.be/38zR-za1zpk
+Parei no início da Aula parte 33
+https://youtu.be/NeOU7Ejs-_g
