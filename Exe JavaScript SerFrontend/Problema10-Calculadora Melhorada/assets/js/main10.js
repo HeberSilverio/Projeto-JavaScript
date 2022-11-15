@@ -1,10 +1,13 @@
 // PROBLEMA 10
 // Fazer uma calculadora
+try{
+
 
 
 let mensagem = '';
 
-let n1 = parseFloat(prompt('Digite um número'));
+let n1 = parseFloat(prompt('Digite um número grandea'));
+
 
 
 
@@ -18,6 +21,8 @@ function somar(){
    let n = parseFloat(prompt('Digite outro número'));
    n1 += n;
    escreve();
+
+   
 }
 function subtrair(){
    let n = parseFloat(prompt('Digite outro número'));
@@ -70,6 +75,8 @@ function calcular(simbolo) {
    escreveCalcula();
 }
 
-
+} catch(e){
+   console.log(e);
+}
 
 
