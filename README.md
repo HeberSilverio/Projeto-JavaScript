@@ -4,7 +4,7 @@ Descobrindo tudo sobre JavaScript
 Inicio da aula 69
 
 
-## 📋 Índice de conteúdo
+## 📋 Índice de conteúdo básico
 
 # [JavaScript - Básico](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/1-Basico#javascript---b%C3%A1sico)
 
