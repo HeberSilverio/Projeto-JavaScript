@@ -27,13 +27,32 @@ body {
   border-radius: 10px;
 }
 
-form input, form label, form button {
+form label, form button {
   display: block;
   width: 100%;
   margin-bottom: 10px;
 }
 
+form input {
+  display: block;
+  margin-bottom: 10px;
+}
 
+input:not([type="checkbox"]) {
+  width: 100%;
+}
+input[type="checkbox"]:focus {
+  outline: none;
+  box-shadow: none;
+}
+input[type="text"] {
+  border: 1px solid green;
+}
+input[type="text"]:focus {
+  border: 1px solid blue;
+  background-color: rgba(12, 23, 87, 0.048);
+  
+}
 form input {
   font-size: 24px;
   height: 50px;
@@ -65,3 +84,8 @@ form button:hover {
 form button:active {
    background: var(--secondary-color);
  }
+
+ .alinhamento {
+  display: flex;
+  align-items: center;
+}
