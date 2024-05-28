@@ -6,9 +6,14 @@
 </a> </br>
 
 ## Desafio dia 02 - Armazenar dados em array
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2001">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2001/img/myclock2.gif" alt="Dia 01" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2002">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2002/img/formulario.gif" alt="Dia 02" style="max-width: 100%;">
 </a> </br>
+
+
+| Desafio dia 01 | Desafio dia 02 |
+| :---: | :---: |
+| [![Dia 01](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2001/img/myclock2.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2001) | [![Dia 02](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2002/img/formulario.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2002) |
 
 ## ⌨️ Como executar o projeto
 ```* Clonando o repositório
