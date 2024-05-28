@@ -22,6 +22,9 @@ function meuEscopo () {
          console.log(pessoas);
 
          resultado.innerHTML += `<h2>Olá ${nome.value} ${sobrenome.value}, recebemos o seu peso de: ${peso.value}kg e altura: ${altura.value}m </h2>`
+
+         // Alterando a propriedade de exibição para tornar a div visível
+         resultado.style.display = "block";
       }
       form.addEventListener('submit', recebeEventoForm);
    

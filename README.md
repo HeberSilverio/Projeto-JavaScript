@@ -1,13 +1,14 @@
-# Projeto-JavaScript
-30 projetos de JavaScript
+# 📋 Índice
 
-### 📋 Índice
-
-## Desafio dia 01 - 3D Responsive Touch Slider
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
-    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true" alt="Dia 01" style="max-width: 100%;">
+## Desafio dia 01 - Relógio com Javascript
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2001">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2001/img/myclock2.gif" alt="Dia 01" style="max-width: 100%;">
 </a> </br>
 
+## Desafio dia 02 - Armazenar dados em array
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2001">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2001/img/myclock2.gif" alt="Dia 01" style="max-width: 100%;">
+</a> </br>
 
 ## ⌨️ Como executar o projeto
 ```* Clonando o repositório
@@ -16,6 +17,9 @@ git clone https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS
 # Execute o HTML abrindo o arquivo index.html no navegador
 Será necessário abrir seu navegador e acessar: `http: // localhost: 5500 /`
 ```
+
+# Projeto-JavaScript
+30 projetos de JavaScript
 
 Inicio da aula 69
 
