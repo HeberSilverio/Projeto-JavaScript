@@ -1,5 +1,21 @@
 # Projeto-JavaScript
-Descobrindo tudo sobre JavaScript
+30 projetos de JavaScript
+
+### 📋 Índice
+
+## Desafio dia 01 - 3D Responsive Touch Slider
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
+    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true" alt="Dia 01" style="max-width: 100%;">
+</a> </br>
+
+
+## ⌨️ Como executar o projeto
+```* Clonando o repositório
+git clone https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS
+
+# Execute o HTML abrindo o arquivo index.html no navegador
+Será necessário abrir seu navegador e acessar: `http: // localhost: 5500 /`
+```
 
 Inicio da aula 69
 
