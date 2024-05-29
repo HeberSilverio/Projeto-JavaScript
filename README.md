@@ -9,43 +9,24 @@
 ## 📋 Índice de desafios
 
 
-| Desafio dia 01 | Desafio dia 02 | Desafio dia 03 | Desafio dia 04 |
+| Desafio dia 01 | Desafio dia 02 
 | :---: | :---: | :---: | :---: |
-| [![Dia 01](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2001/img/myclock2.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2001) | [![Dia 02](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2002/img/formulario.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2002) | [![Dia 03](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2003/TabelaIMC/assets/img/gifTabelaImc.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2003) | [![Dia 04]($IMAGE_URL$)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2004) |
-</a> </br>
+| [![Dia 01](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2001/img/myclock2.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2001) | [![Dia 02](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2002/img/formulario.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2002) 
 
-
-
-## Desafio dia 01 - Relógio com Javascript
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2001">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2001/img/myclock2.gif" alt="Dia 01" style="max-width: 100%;">
-</a> </br>
-
-## Desafio dia 02 - Armazenar dados em array
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2002">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2002/img/formulario.gif" alt="Dia 02" style="max-width: 100%;">
-</a> </br>
-
-## Desafio dia 03 - $DESCRIPTION$
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2003">
-    <img src="$IMAGE_URL$" alt="Dia 03" style="max-width: 100%;">
-</a> </br>
-
-## Desafio dia 04 - $DESCRIPTION$
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2004">
-    <img src="$IMAGE_URL$" alt="Dia 04" style="max-width: 100%;">
+| Desafio dia 03 | Desafio dia 04 |
+| [![Dia 03](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2003/TabelaIMC/assets/img/gifTabelaImc.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2003) | [![Dia 04]($IMAGE_URL$)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2004) |
 
 
  <hr />
+
+ [Playlist completa](https://youtu.be/zPOJ7Jsp9h4?si=orXD8DoAIba_DpIg)
+
 ## 📋 Índice de conteúdos
 
 - [Operação ternária](#operação-ternária) 
 - [Operação ternária](#operação-ternária) 
 - [Operação ternária](#operação-ternária) 
 - [Operação ternária](#operação-ternária) 
-### Operação ternária
-(condição) ? 'Valor para verdadeiro' : 'Valor para falso';
-
 
 - [JavaScript Avançado - Funções ](#javaScript-avançado-Funções)
     - [Declaração de função (Function hoisting)](#declaração-de-função)
@@ -54,9 +35,12 @@
     - [Arrow Function](#first-class-objects)
     - [Dentro de um objeto](#first-class-objects)
 
+### Operação ternária
+(condição) ? 'Valor para verdadeiro' : 'Valor para falso';
+
 # JavaScript Avançado - Funções 
 
-### maneiras de declarar funções
+### Maneiras de declarar funções
 ##### Declaração de função (Function hoisting) - Aula 68
 ##### First-class objects - Aula 68
 ##### Function Expression - Aula 68
@@ -110,3 +94,23 @@ Site para estudar javascript: [FreeCodeCamp](https://www.freecodecamp.org/)
 ## Autor
 Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
 
+
+
+## Desafio dia 01 - Relógio com Javascript
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2001">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2001/img/myclock2.gif" alt="Dia 01" style="max-width: 100%;">
+</a> </br>
+
+## Desafio dia 02 - Armazenar dados em array
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2002">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2002/img/formulario.gif" alt="Dia 02" style="max-width: 100%;">
+</a> </br>
+
+## Desafio dia 03 - $DESCRIPTION$
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2003">
+    <img src="$IMAGE_URL$" alt="Dia 03" style="max-width: 100%;">
+</a> </br>
+
+## Desafio dia 04 - $DESCRIPTION$
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2004">
+    <img src="$IMAGE_URL$" alt="Dia 04" style="max-width: 100%;">

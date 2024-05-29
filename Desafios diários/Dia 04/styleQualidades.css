@@ -1,0 +1,23 @@
+.btn  {
+  margin: 5px 5px;
+}
+body{
+  background-color: #4e73df;
+  background-image: linear-gradient(180deg, #2a2d35 10%, #7d92d1 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.bg-gradient-primary {
+  padding: 15px 5px;
+  
+}
+.text-pading {
+  padding: 25px 25px;
+}
+.resultado {
+  display: none;
+}
+#qualidades {
+  margin: 10px;
+}
