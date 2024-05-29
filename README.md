@@ -11,12 +11,15 @@
 
 | Desafio dia 01 | Desafio dia 02 |
 | :---: | :---: |
-| [![Dia 01](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2001/img/myclock2.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2001) | [![Dia 02](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2002/img/formulario.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2002) |
+| [![Dia 01](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2001/img/myclock2.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2001) | [![Dia 02](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2002/img/formulario.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2002) |
 
 | Desafio dia 03 | Desafio dia 04 |
 | :---: | :---: |
-| [![Dia 03](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Dia%2003/TabelaIMC/assets/img/gifTabelaImc.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2003) | [![Dia 04](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2004/img/virtudesNecessarias.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2004) |
+| [![Dia 03](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2003/TabelaIMC/assets/img/gifTabelaImc.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2003) | [![Dia 04](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2004/img/virtudesNecessarias.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2004) |
 
+| Desafio dia 05 | Desafio dia 06 |
+| :---: | :---: |
+| [![Dia 05]($IMAGE_URL_05$)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2005) | [![Dia 06]($IMAGE_URL_06$)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2006) |
 
  <hr />
 
