@@ -19,7 +19,7 @@
 
 | Desafio dia 05 | Desafio dia 06 |
 | :---: | :---: |
-| [![Dia 05]($IMAGE_URL_05$)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2005) | [![Dia 06]($IMAGE_URL_06$)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2006) |
+| [![Dia 05](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2005/calculadora/assets/img/GifCalculadora.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2005) | [![Dia 06]($IMAGE_URL_06$)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Dia%2006) |
 
  <hr />
 
