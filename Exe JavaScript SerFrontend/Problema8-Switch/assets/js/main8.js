@@ -5,7 +5,7 @@
    */
 
 
-let n = prompt('Digite um número');
+let n = prompt('Digite um número entre 1 e 10');
 
 //converter em número inteiro
 n = parseInt(n);
@@ -29,5 +29,23 @@ switch(n){
    case 4:
       alert('Será que é exagero?');
       break;
-}
+   case 5:
+      alert('Cinco é um número legal');
+      break;
+   case 6:
+      alert('Seis é um número da sorte');
+      break;
+   case 7:
+      alert('Sete é um número mágico');
+      break;
+   case 8:
+      alert('Oito é um número poderoso');
+      break;
+   case 9:
+      alert('Nove é um número especial');
+      break;
+   case 10:
+      alert('Dez é um número perfeito');
+      break;
+}10
 

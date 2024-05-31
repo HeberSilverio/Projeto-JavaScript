@@ -1,6 +1,6 @@
 // PROBLEMA 5
 // Pedir para o usuário digitar a nota de duas provas mostrar um boolean indicando se a média for maior que 5
-// exibir as mesagens "Parabéns! Você foi aprovado." ou "Desculpe, mas não foi dessa vez."
+// exibir as mesagens "Parabéns! Você foi aprovado." ou "Desculpe, mas não foi dessa vez.
 
 let n1 = prompt('Aluno digite a sua primeira nota');
 

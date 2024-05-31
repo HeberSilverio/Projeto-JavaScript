@@ -1,34 +1,32 @@
 // PROBLEMA 11
 // Area do retângulo
 
+document.getElementById('calcular').addEventListener('click', function() {
+   let largura, altura;
 
+   try {
+       largura = parseFloat(document.getElementById('base').value);
+       altura = parseFloat(document.getElementById('altura').value);
+   } catch (error) {
+       alert('Digite números');
+   }
 
-try {
- 
-
-let largura = parseFloat(prompt('Digite a base'));
-let altura = parseFloat(prompt('Digite a altura'));
-
-} catch (error) {
-   alert('Digite números')
-}
-
-function areaDoRetangulo(b, h){
-
+   // Restante do seu código...
+   function areaDoRetangulo(b, h){
+      const area = b * h;
    
-   // if (b === undefined || h === undefined){
-   //    throw new Error('Area precisa de números')
-   // }
-   // if(isNaN(b) || isNaN(h)){
-   //    throw new Error('Apenas números')
-   // }
+      const output = document.querySelector('#output');
+      const resultadoDiv = document.createElement('div');
+      resultadoDiv.innerHTML = 'Área total: ' + area;
+      output.appendChild(resultadoDiv);2
    
-   const area = b * h;
+      // Desenhar o retângulo
+      output.style.width = ((b * 5 ) + 100) + "px";
+      output.style.height = ((h * 5) + 100) + "px";
+      output.style.padding = "8px";10
+   }
+   
+   // Chamar a função com a largura e altura
+   areaDoRetangulo(largura, altura);
+});
 
-   const output = document.querySelector('#output');
-   // Mostra mensagem no output
-   output.innerHTML = 'Área total: ' + area;
-}
-
-
-let pessoas = new Array();

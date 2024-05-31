@@ -4,6 +4,17 @@
   --primary-color-darker: rgb(9, 48, 56);
   --secondary-color: #008000;
   --terciary-color: #02A698;
+  --quaternary-color: #FF0000;
+  --quinary-color: #FFA500;
+  --senary-color: #FFFF00;
+  --septenary-color: #0000FF;
+  --octonary-color: #4B0082;
+  --nonary-color: #9400D3;
+  --denary-color: #FF1493;
+  --elevenary-color: #FF69B4;
+  --dozenary-color: #FFC0CB;
+  --trezenary-color: #FFD700;
+  --fourteenary-color: #F5F5F5;
 }
 
 * {
@@ -35,7 +46,15 @@ form input, form label, form button {
   width: 100%;
   margin-bottom: 10px;
 }
-
+#output > div {
+  margin: 30px 10px;
+  padding: 20px;
+  border-radius: 10px;
+  background: var(--fourteenary-color);
+  color: var(--primary-color);
+  font-size: 24px;
+  text-align: center;
+}
 
 form input {
   font-size: 24px;
@@ -67,4 +86,16 @@ form button:hover {
 
 form button:active {
    background: var(--secondary-color);
+ }
+ .d-flex {
+  display: flex !important;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+ .flex{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
  }

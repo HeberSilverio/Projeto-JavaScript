@@ -5,6 +5,7 @@
 }
 .resultado {
   display: none;
+  margin-top: 10px;
 }
 .form-container {
   display: flex;

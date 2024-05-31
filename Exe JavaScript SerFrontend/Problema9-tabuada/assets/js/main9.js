@@ -15,15 +15,21 @@ function mostrarTabuada(){
    n = parseFloat(n);
    // Criar uma variavel que servirá de índice
    let i = 1;
-      // Enquanto índice <= 1000
-      // Concatena na variavel mensagem
+   let mensagem = '';
+   // Enquanto índice <= 1000
+   // Concatena na variavel mensagem
    while(i <= 10){
       mensagem += n + ' x ' + i +' = '+ (n*i) + '<br>';
       i++;
    }
 
-   // Mostra mensagem no output
-   output.innerHTML = mensagem;
+   let novaDiv = document.createElement('div');
+   // Adiciona a mensagem à nova div
+   novaDiv.innerHTML = mensagem;
+   // Seleciona a div com id 'output'
+   let outputDiv = document.getElementById('output');
+   // Adiciona a nova div à div 'output'
+   outputDiv.appendChild(novaDiv);
 }
 
 

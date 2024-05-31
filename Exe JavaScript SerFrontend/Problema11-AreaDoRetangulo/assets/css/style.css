@@ -23,6 +23,7 @@ body {
    color: var(--terciary-color);
 }
 .container {
+  height: 100vh;
   max-width: 640px;
   margin: 50px auto;
   background: #fff;
@@ -64,7 +65,33 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
-
+#output {
+   margin-top: 20px;
+   display: flex;
+  justify-content: space-evenly;
+  min-width: 600px;
+ }
+ form button:active {
+   background: var(--secondary-color);
+ }
+ #output > div {
+   margin-top: 20px;
+   padding: 10px;
+   background: var(--terciary-color);
+   color: #fff;
+   border-radius: 10px;
+   text-align: center;
+ }
 form button:active {
    background: var(--secondary-color);
+ }
+ #output > div {
+   /* margin-top: 20px; */
+   padding: 10px;
+   background: var(--terciary-color);
+   color: #fff;
+   border-radius: 10px;
+   text-align: center;
+   display: flex;
+   align-items: center;
  }
