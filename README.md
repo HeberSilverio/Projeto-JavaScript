@@ -23,7 +23,7 @@
 
  <hr />
 
- [Playlist completa](https://youtu.be/zPOJ7Jsp9h4?si=orXD8DoAIba_DpIg)
+ [Playlist completa](https://www.youtube.com/watch?v=5m5lY8-5Eq0&list=PLR5-OPMtjCw0ZmE1gbSRrLFhZpvTZ7xf8)
 
 ## 📋 Índice de conteúdos
 
