@@ -19,7 +19,11 @@
 
 | Desafio dia 05 | Desafio dia 06 |
 | :---: | :---: |
-| [![Dia 05](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2005/calculadora/assets/img/GifCalculadora.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2005) | [![Dia 06](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Exe%20JavaScript%20SerFrontend/Problema9-tabuada/assets/img/geradorTabuada.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Exe%20JavaScript%20SerFrontend/Problema9-tabuada) |
+| [![Dia 05](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2005/calculadora/assets/img/GifCalculadora.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2005) | [![Dia 06](https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Desafios%20di%C3%A1rios/Dia%2006/Problema9-tabuada/assets/img/geradorTabuada.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2006) |
+
+| Desafio dia 07 | Desafio dia 08 |
+| :---: | :---: |
+| [![Dia 07](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2007/img/radomColor.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2007) | [![Dia 08](https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Desafios%20di%C3%A1rios/Dia%2006/Problema9-tabuada/assets/img/geradorTabuada.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2006) |
 
  <hr />
 
