@@ -23,7 +23,11 @@
 
 | Desafio dia 07 | Desafio dia 08 |
 | :---: | :---: |
-| [![Dia 07](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2007/img/radomColor.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2007) | [![Dia 08](https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Desafios%20di%C3%A1rios/Dia%2006/Problema9-tabuada/assets/img/geradorTabuada.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2006) |
+| [![Dia 07](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2007/img/radomColor.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2007) | [![Dia 08](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2008/assets/shuffle2.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2008) |
+
+| Desafio dia 09 | Desafio dia 10 |
+| :---: | :---: |
+| [![Dia 09]()]() | [![Dia 10]()]() |
 
  <hr />
 
