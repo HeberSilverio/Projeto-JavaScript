@@ -29,6 +29,10 @@
 | :---: | :---: |
 | [![Dia 09]()]() | [![Dia 10]()]() |
 
+| Desafio dia 09 | Desafio dia 10 |
+| :---: | :---: |
+| [![Dia 09]()]() | [![Dia 10]()]() |
+
  <hr />
 
  [Playlist completa](https://www.youtube.com/watch?v=5m5lY8-5Eq0&list=PLR5-OPMtjCw0ZmE1gbSRrLFhZpvTZ7xf8)
