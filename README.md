@@ -27,7 +27,7 @@
 
 | Desafio dia 09 | Desafio dia 10 |
 | :---: | :---: |
-| [![Dia 09](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2009/img/text.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2009) | [![Dia 10](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2008/assets/shuffle2.gif)]() |
+| [![Dia 09](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2009/img/text.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2009) | [![Dia 10](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2010/img/password.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2010) |
 
 | Desafio dia 11 | Desafio dia 12 |
 | :---: | :---: |
