@@ -31,7 +31,7 @@
 
 | Desafio dia 11 | Desafio dia 12 |
 | :---: | :---: |
-| [![Dia 09](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2007/img/radomColor.gif)]() | [![Dia 10](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2008/assets/shuffle2.gif)]() |
+| [![Dia 11](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2011/digitalClock.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2011) | [![Dia 12](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2008/assets/shuffle2.gif)]() |
 
  <hr />
 
