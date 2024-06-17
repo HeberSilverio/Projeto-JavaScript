@@ -11,7 +11,7 @@
 
 | Desafio dia 01 | Desafio dia 02 |
 | :---: | :---: |
-| [![Dia 01](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2001/img/myclock2.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2001) | [![Dia 02](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2002/img/formulario.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2002) |
+| [![Dia 01](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-01/img/myclock2.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-01) | [![Dia 02](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-02/img/formulario.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-02) |
 
 | Desafio dia 03 | Desafio dia 04 |
 | :---: | :---: |
