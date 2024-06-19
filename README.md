@@ -15,11 +15,11 @@
 
 | Desafio dia 03 | Desafio dia 04 |
 | :---: | :---: |
-| [![Dia 03](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2003/TabelaIMC/assets/img/gifTabelaImc.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2003) | [![Dia 04](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2004/img/virtudesNecessarias.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2004) |
+| [![Dia 03](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-03/TabelaIMC/assets/img/gifTabelaImc.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-03/TabelaIMC) | [![Dia 04](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-04/img/virtudesNecessarias.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-04) |
 
 | Desafio dia 05 | Desafio dia 06 |
 | :---: | :---: |
-| [![Dia 05](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2005/calculadora/assets/img/GifCalculadora.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2005) | [![Dia 06](https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Desafios%20di%C3%A1rios/Dia%2006/Problema9-tabuada/assets/img/geradorTabuada.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2006) |
+| [![Dia 05](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-05/calculadora/assets/img/GifCalculadora.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-05) | [![Dia 06](https://github.com/HeberSilverio/Projeto-JavaScript/blob/main/Desafios%20di%C3%A1rios/Dia%2006/Problema9-tabuada/assets/img/geradorTabuada.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2006) |
 
 | Desafio dia 07 | Desafio dia 08 |
 | :---: | :---: |
