@@ -23,7 +23,7 @@
 
 | Desafio dia 07 | Desafio dia 08 |
 | :---: | :---: |
-| [![Dia 07](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2007/img/radomColor.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2007) | [![Dia 08](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios%20di%C3%A1rios/Dia%2008/assets/shuffle2.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios%20di%C3%A1rios/Dia%2008) |
+| [![Dia 07](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-07/img/radomColor.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-07) | [![Dia 08](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-08/assets/shuffle2.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-08) |
 
 | Desafio dia 09 | Desafio dia 10 |
 | :---: | :---: |
