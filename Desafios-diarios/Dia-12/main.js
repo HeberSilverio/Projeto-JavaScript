@@ -24,3 +24,16 @@ document.addEventListener('DOMContentLoaded', function() {
       btn.style.top = `${Math.min(contentRect.top + window.scrollY + newY, 380)}px`;
   });
 });
+
+document.getElementById('btnSim').addEventListener('click', function() {
+  // Cria o elemento lord-icon
+  var lordIcon = document.createElement('lord-icon');
+  lordIcon.setAttribute('src', 'https://cdn.lordicon.com/gqjpawbc.json');
+  lordIcon.setAttribute('trigger', 'hover');
+  lordIcon.style.width = '190px';
+  lordIcon.style.height = '190px';
+
+  document.getElementById('btnNao').style.display = 'none';
+  // Adiciona o lord-icon à div com id 'icon'
+  document.getElementById('icon').appendChild(lordIcon);
+});
