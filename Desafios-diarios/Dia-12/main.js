@@ -26,6 +26,10 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 document.getElementById('btnSim').addEventListener('click', function() {
+  // Muda a classe do botão
+  this.classList.remove('btn-primary');
+  this.classList.add('btn-success');
+
   // Cria o elemento lord-icon
   var lordIcon = document.createElement('lord-icon');
   lordIcon.setAttribute('src', 'https://cdn.lordicon.com/gqjpawbc.json');
@@ -33,7 +37,21 @@ document.getElementById('btnSim').addEventListener('click', function() {
   lordIcon.style.width = '190px';
   lordIcon.style.height = '190px';
 
+  // Esconde o botão 'Não'
   document.getElementById('btnNao').style.display = 'none';
+
   // Adiciona o lord-icon à div com id 'icon'
   document.getElementById('icon').appendChild(lordIcon);
+
+  // Inicia o efeito de aumentar e diminuir o tamanho da imagem com id 'coracao'
+  const coracao = document.getElementById('coracao'); // Seleciona a imagem pelo ID
+  let growing = true;
+  const intervalId = setInterval(() => {
+    if (growing) {
+      coracao.style.transform = 'scale(1.09)'; // Aumenta o tamanho em 5%
+    } else {
+      coracao.style.transform = 'scale(1)'; // Retorna ao tamanho original
+    }
+    growing = !growing;
+  }, 500);
 });
