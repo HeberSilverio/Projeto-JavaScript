@@ -33,6 +33,10 @@
 | :---: | :---: |
 | [![Dia 11](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-11/img/digitalClockBlack.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-11) | [![Dia 12](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-12/img/botaoNot.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-12) |
 
+| Desafio dia 13 | Desafio dia 14 |
+| :---: | :---: |
+| [![Dia 13](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-11/img/digitalClockBlack.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-11) | [![Dia 14](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-12/img/botaoNot.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-12) |
+
  <hr />
 
  [Playlist completa](https://www.youtube.com/watch?v=5m5lY8-5Eq0&list=PLR5-OPMtjCw0ZmE1gbSRrLFhZpvTZ7xf8)
