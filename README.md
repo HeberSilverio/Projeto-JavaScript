@@ -35,7 +35,7 @@
 
 | Desafio dia 13 | Desafio dia 14 |
 | :---: | :---: |
-| [![Dia 13](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-13/img/jogoDaVelha.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-13) | [![Dia 14](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-12/img/botaoNot.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-12) |
+| [![Dia 13](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-13/img/jogoDaVelha.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-13) | [![Dia 14](https://raw.githubusercontent.com/HeberSilverio/Projeto-JavaScript/main/Desafios-diarios/Dia-14/img/dot-and-boxes.gif)](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Desafios-diarios/Dia-14) |
 
  <hr />
 
