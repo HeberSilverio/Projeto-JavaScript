@@ -1,7 +1,7 @@
 # [JavaScript - Básico](#javascript---básico)
 
 ## 📋 Índice
-* [Introdução ao JavaScript](#)
+* [Introdução ao JavaScript](#https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Curso%20Completo%20de%20Javascript/Introducao-ao-JavaScript#introdu%C3%A7%C3%A3o-ao-javascript)
 * [Tudo sobre variáveis](#)
 * [Tipos de dados](#)
 * [Fundição de tipo](#)
