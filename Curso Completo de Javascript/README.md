@@ -1,6 +1,25 @@
 # [JavaScript - Básico](#javascript---básico)
 
 ## 📋 Índice
+Introdução ao JavaScript
+Tudo sobre variáveis
+Tipos de dados
+Fundição de tipo
+Estruturas de dados
+Comparações de igualdade
+Loops e iterações
+Controle de fluxo
+Expressões e Operadores
+Funções
+modo estrito
+Usando palavra-chave
+JavaScript assíncrono
+Trabalhando com APIs
+Aulas
+Iteradores e Geradores
+Módulos em JavaScript
+Gerenciamento de memória
+Usando ferramentas de desenvolvimento do Chrome
 
 * [Visão Geral](#vis%C3%A3o-geral)
 * [Concatenação](#concatena%C3%A7%C3%A3o)
