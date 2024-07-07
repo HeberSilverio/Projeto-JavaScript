@@ -1,12 +1,12 @@
 ### Tipos de Dados
-- string
-- número inteiro
-- número real
-- boleano
+- [string](#string)
+- [Number](#number)
+- [boleano](#boolean)
+- [null](#null)
+- [undefined](#undefined)
+- [Symbol](#symbol-novo-no-ecmascript-en-us-6)
 - array
 - objeto
-- null
-- undefined
 - NaN
 
 ##### Dados primitivos

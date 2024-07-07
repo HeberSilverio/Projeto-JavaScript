@@ -3,7 +3,7 @@
 ## 📋 Índice
 * [Introdução ao JavaScript](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Curso%20Completo%20de%20Javascript/01-Introducao-ao-JavaScript#introdu%C3%A7%C3%A3o-ao-javascript)
 * [Tudo sobre variáveis](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Curso%20Completo%20de%20Javascript/02-Tudo%20sobre%20vari%C3%A1veis#tudo-sobre-vari%C3%A1veis-no-javascript)
-* [Tipos de dados](#)
+* [Tipos de dados](https://github.com/HeberSilverio/Projeto-JavaScript/tree/main/Curso%20Completo%20de%20Javascript/03%20Tipos%20de%20dados#tipos-de-dados)
 * [Fundição de tipo](#)
 * [Estruturas de dados](#)
 * [Comparações de igualdade](#)
