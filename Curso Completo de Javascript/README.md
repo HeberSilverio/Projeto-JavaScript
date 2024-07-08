@@ -41,27 +41,6 @@
 * [Encapsulamento]()
 * [Static]()
 * [Herança]()
-
-* <a href=""></a> 
-* []()
-
-
-
-### Concatenação
-* O sinal de + em JavaScript é **concatenação**.
-
-* No JavaScript utilizamos // para comentar linhas 
-
-* Podemos comentar blocos com barra asterístico /**/
-
-* Dentro de HTML o recomendado é solicitar os scripts através do src e criar o arquivo javaScript separado.
-
-
-
-
-
-
-
 ### Operadores
 ##### Operadores Lógicos
 ! Não (not) - 1º
@@ -82,6 +61,27 @@
 ### Encapsulamento
 ### Static
 ### Herança
+* <a href=""></a> 
+* []()
+
+
+
+### Concatenação
+* O sinal de + em JavaScript é **concatenação**.
+
+* No JavaScript utilizamos // para comentar linhas 
+
+* Podemos comentar blocos com barra asterístico /**/
+
+* Dentro de HTML o recomendado é solicitar os scripts através do src e criar o arquivo javaScript separado.
+
+
+
+
+
+
+
+
 
 ## Autor
 Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
