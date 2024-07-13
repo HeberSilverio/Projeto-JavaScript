@@ -12,10 +12,10 @@ A JavaScript é uma linguagem dinâmica orientada a objetos; tem tipos e operado
 JavaScript, frequentemente abreviado como JS, é uma linguagem de programação que é uma das principais tecnologias da World Wide Web, junto com HTML e CSS. Ela nos permite adicionar interatividade às páginas, por exemplo, você pode ter visto sliders, alertas, interações de clique, pop-ups, etc. em diferentes sites — tudo isso é construído usando JavaScript. Além de ser usado no navegador, ele também é usado em outros ambientes que não sejam navegadores, como Node.js para escrever código do lado do servidor em JavaScript, Electron para escrever aplicativos de desktop, React Native para aplicativos móveis e assim por diante.
 
 
-Estrutura do código
+##### Estrutura do código
 A primeira coisa que estudaremos são os blocos de construção do código.
 
-Declarações
+Declarações: <br>
 Instruções são construções de sintaxe e comandos que executam ações.
 
 Já vimos uma declaração, alert('Hello, world!'), que mostra a mensagem “Olá, mundo!”.
@@ -24,18 +24,20 @@ Podemos ter quantas declarações em nosso código quisermos. As declarações p
 
 Por exemplo, aqui dividimos “Hello World” em dois alertas:
 
-alert('Hello'); alert('World');
+```alert('Hello'); alert('World');```
 Normalmente, as instruções são escritas em linhas separadas para tornar o código mais legível:
 
-alert('Hello');
-alert('World');
+`alert('Hello');`
+`alert('World');`
 Ponto e vírgula
 Um ponto e vírgula pode ser omitido na maioria dos casos quando há uma quebra de linha.
 
 Isso também funcionaria:
 
+```hash
 alert('Hello')
 alert('World')
+```
 Aqui, o JavaScript interpreta a quebra de linha como um ponto e vírgula “implícito”. Isso é chamado de inserção automática de ponto e vírgula .
 
 Na maioria dos casos, uma nova linha implica um ponto e vírgula. Mas “na maioria dos casos” não significa “sempre”!
