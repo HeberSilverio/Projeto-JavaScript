@@ -61,7 +61,8 @@ Se você estiver curioso para ver um exemplo concreto de tal erro, confira este 
 ```hash
 alert("Hello");
 
-[1, 2].forEach(alert);```
+[1, 2].forEach(alert);
+```
 
 Não precisa pensar no significado dos colchetes [] e forEach ainda. Nós os estudaremos mais tarde. Por enquanto, apenas lembre-se do resultado da execução do código: ele mostra Hello, então 1, então 2.
 
@@ -74,20 +75,20 @@ alert("Hello")
 ```
 A diferença em relação ao código acima é apenas um caractere: o ponto e vírgula no final da primeira linha desapareceu.
 
-Se executarmos esse código, apenas o primeiro Helloaparece (e há um erro, talvez seja necessário abrir o console para vê-lo). Não há mais números.
+Se executarmos esse código, apenas o primeiro Hello aparece (e há um erro, talvez seja necessário abrir o console para vê-lo). Não há mais números.
 
 Isso ocorre porque o JavaScript não assume um ponto e vírgula antes dos colchetes [...]. Então, o código no último exemplo é tratado como uma única declaração.
 
 Veja como o motor vê isso:
 
-alert("Hello")[1, 2].forEach(alert);
+`alert("Hello")[1, 2].forEach(alert);`
 Parece estranho, certo? Tal mesclagem neste caso é simplesmente errada. Precisamos colocar um ponto e vírgula depois alertpara que o código funcione corretamente.
 
 Isso também pode acontecer em outras situações.
 
 Recomendamos colocar ponto e vírgula entre as instruções, mesmo que elas sejam separadas por quebras de linha. Essa regra é amplamente adotada pela comunidade. Vamos observar mais uma vez – é possível deixar de fora ponto e vírgula na maioria das vezes. Mas é mais seguro – especialmente para um iniciante – usá-los.
 
-Comentários
+#### Comentários
 Conforme o tempo passa, os programas se tornam mais e mais complexos. Torna-se necessário adicionar comentários que descrevam o que o código faz e por quê.
 
 Comentários podem ser colocados em qualquer lugar de um script. Eles não afetam sua execução porque o mecanismo simplesmente os ignora.
@@ -98,19 +99,22 @@ O restante da linha é um comentário. Pode ocupar uma linha inteira ou seguir u
 
 Como aqui:
 
+```
 // This comment occupies a line of its own
 alert('Hello');
+```
 
-alert('World'); // This comment follows the statement
-Comentários multilinha começam com uma barra e um asterisco /*e terminam com um asterisco e uma barra */.
+`alert('World'); // This comment follows the statement`
+Comentários multilinha começam com uma barra e um asterisco /* e terminam com um asterisco e uma barra */.
 
 Assim:
-
+```hash
 /* An example with two messages.
 This is a multiline comment.
 */
 alert('Hello');
 alert('World');
+```
 O conteúdo dos comentários é ignorado, então se colocarmos código dentro /* … */, ele não será executado.
 
 Às vezes, pode ser útil desabilitar temporariamente uma parte do código:
@@ -122,8 +126,8 @@ alert('World');
 Use teclas de atalho!
 Na maioria dos editores, uma linha de código pode ser comentada pressionando a tecla de atalho para um comentário de linha única e algo como – para comentários de várias linhas (selecione um pedaço de código e pressione a tecla de atalho). Para Mac, tente em vez de e em vez de .Ctrl+/Ctrl+Shift+/CmdCtrlOptionShift
 
-Comentários aninhados não são suportados!
-Pode não haver /*...*/dentro de outro /*...*/.
+> Comentários aninhados não são suportados!
+**Pode não haver /*...*/dentro de outro /*...*/.**
 
 Esse código morrerá com um erro:
 
@@ -131,6 +135,7 @@ Esse código morrerá com um erro:
   /* nested comment ?!? */
 */
 alert( 'World' );
+
 Por favor, não hesite em comentar seu código.
 
 Comentários aumentam a pegada geral do código, mas isso não é um problema. Existem muitas ferramentas que minificam o código antes de publicar em um servidor de produção. Elas removem comentários, para que eles não apareçam nos scripts de trabalho. Portanto, comentários não têm efeitos negativos na produção.
