@@ -82,6 +82,7 @@ Isso ocorre porque o JavaScript não assume um ponto e vírgula antes dos colche
 Veja como o motor vê isso:
 
 `alert("Hello")[1, 2].forEach(alert);`
+
 Parece estranho, certo? Tal mesclagem neste caso é simplesmente errada. Precisamos colocar um ponto e vírgula depois alertpara que o código funcione corretamente.
 
 Isso também pode acontecer em outras situações.
@@ -105,6 +106,7 @@ alert('Hello');
 ```
 
 `alert('World'); // This comment follows the statement`
+
 Comentários multilinha começam com uma barra e um asterisco /* e terminam com um asterisco e uma barra */.
 
 Assim:
@@ -119,23 +121,26 @@ O conteúdo dos comentários é ignorado, então se colocarmos código dentro /*
 
 Às vezes, pode ser útil desabilitar temporariamente uma parte do código:
 
+```
 /* Commenting out the code
 alert('Hello');
 */
 alert('World');
+```
 Use teclas de atalho!
-Na maioria dos editores, uma linha de código pode ser comentada pressionando a tecla de atalho para um comentário de linha única e algo como – para comentários de várias linhas (selecione um pedaço de código e pressione a tecla de atalho). Para Mac, tente em vez de e em vez de .Ctrl+/Ctrl+Shift+/CmdCtrlOptionShift
+<br>Na maioria dos editores, uma linha de código pode ser comentada pressionando a tecla de atalho para um comentário de linha única e algo como – para comentários de várias linhas (selecione um pedaço de código e pressione a tecla de atalho). No vscode é `Ctrl+;` 
 
 > Comentários aninhados não são suportados!
 **Pode não haver /*...*/dentro de outro /*...*/.**
 
 Esse código morrerá com um erro:
 
+```hash
 /*
   /* nested comment ?!? */
 */
 alert( 'World' );
-
+```
 Por favor, não hesite em comentar seu código.
 
 Comentários aumentam a pegada geral do código, mas isso não é um problema. Existem muitas ferramentas que minificam o código antes de publicar em um servidor de produção. Elas removem comentários, para que eles não apareçam nos scripts de trabalho. Portanto, comentários não têm efeitos negativos na produção.
