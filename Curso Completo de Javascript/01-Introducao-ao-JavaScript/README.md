@@ -27,9 +27,9 @@ Por exemplo, aqui dividimos “Hello World” em dois alertas:
 ```alert('Hello'); alert('World');```
 Normalmente, as instruções são escritas em linhas separadas para tornar o código mais legível:
 
-`alert('Hello');`
+`alert('Hello');` <br>
 `alert('World');`
-Ponto e vírgula
+- Ponto e vírgula
 Um ponto e vírgula pode ser omitido na maioria dos casos quando há uma quebra de linha.
 
 Isso também funcionaria:
@@ -44,9 +44,11 @@ Na maioria dos casos, uma nova linha implica um ponto e vírgula. Mas “na maio
 
 Há casos em que uma nova linha não significa um ponto e vírgula. Por exemplo:
 
+```hash
 alert(3 +
 1
 + 2);
+```
 O código gera 6porque o JavaScript não insere ponto e vírgula aqui. É intuitivamente óbvio que se a linha termina com um sinal de mais "+", então é uma “expressão incompleta”, então um ponto e vírgula ali seria incorreto. E neste caso, isso funciona como pretendido.
 
 Mas há situações em que o JavaScript “falha” em assumir um ponto e vírgula onde ele é realmente necessário.
