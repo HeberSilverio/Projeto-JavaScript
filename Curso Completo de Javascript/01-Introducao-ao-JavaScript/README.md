@@ -29,7 +29,7 @@ Normalmente, as instruções são escritas em linhas separadas para tornar o có
 
 `alert('Hello');` <br>
 `alert('World');`
-- Ponto e vírgula
+- Ponto e vírgula <br>
 Um ponto e vírgula pode ser omitido na maioria dos casos quando há uma quebra de linha.
 
 Isso também funcionaria:
@@ -55,19 +55,23 @@ Mas há situações em que o JavaScript “falha” em assumir um ponto e vírgu
 
 Erros que ocorrem nesses casos são muito difíceis de encontrar e corrigir.
 
-Um exemplo de erro
+##### Um exemplo de erro
 Se você estiver curioso para ver um exemplo concreto de tal erro, confira este código:
 
+```hash
 alert("Hello");
 
-[1, 2].forEach(alert);
-Não precisa pensar no significado dos colchetes []e forEachainda. Nós os estudaremos mais tarde. Por enquanto, apenas lembre-se do resultado da execução do código: ele mostra Hello, então 1, então 2.
+[1, 2].forEach(alert);```
+
+Não precisa pensar no significado dos colchetes [] e forEach ainda. Nós os estudaremos mais tarde. Por enquanto, apenas lembre-se do resultado da execução do código: ele mostra Hello, então 1, então 2.
 
 Agora vamos remover o ponto e vírgula depois de alert:
 
+```hash
 alert("Hello")
 
 [1, 2].forEach(alert);
+```
 A diferença em relação ao código acima é apenas um caractere: o ponto e vírgula no final da primeira linha desapareceu.
 
 Se executarmos esse código, apenas o primeiro Helloaparece (e há um erro, talvez seja necessário abrir o console para vê-lo). Não há mais números.
