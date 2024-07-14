@@ -146,3 +146,8 @@ Por favor, não hesite em comentar seu código.
 Comentários aumentam a pegada geral do código, mas isso não é um problema. Existem muitas ferramentas que minificam o código antes de publicar em um servidor de produção. Elas removem comentários, para que eles não apareçam nos scripts de trabalho. Portanto, comentários não têm efeitos negativos na produção.
 
 Mais adiante no tutorial, haverá um capítulo sobre qualidade do código que também explica como escrever comentários melhores.
+
+#### O modo moderno, "use strict"
+
+Porque devemos usar a diretiva "use strict" em nosso código javascript?
+ Prevenção de Erros: O modo estrito ajuda a capturar erros comuns de codificação e impede o uso de recursos problemáticos que podem levar a bugs.
