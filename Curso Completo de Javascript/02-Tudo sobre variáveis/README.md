@@ -27,3 +27,35 @@ Na maioria das vezes, um aplicativo JavaScript precisa trabalhar com informaçõ
 * Para descobrir o tipo do conteúdo da variavel utilize a função typeof()
 console.log( typeof(nomeDaVariavel) );
    - O operador + (adição) fará soma de números, porém com strings fará concatenação.
+
+
+#### Uma variável
+Também podemos declarar múltiplas variáveis ​​em uma linha:
+
+```hash
+let user = 'John', age = 25, message = 'Hello';
+```
+Isso pode parecer mais curto, mas não recomendamos. Para melhor legibilidade, use uma única linha por variável.
+
+A variante multilinha é um pouco mais longa, mas mais fácil de ler:
+
+```hash
+let user = 'John';
+let age = 25;
+let message = 'Hello';
+Algumas pessoas também definem múltiplas variáveis ​​neste estilo multilinha:
+```
+
+```hash
+let user = 'John',
+  age = 25,
+  message = 'Hello';
+…Ou mesmo no estilo “primeiro a vírgula”:
+```
+
+```hash
+let user = 'John'
+  , age = 25
+  , message = 'Hello';
+Tecnicamente, todas essas variantes fazem a mesma coisa. Então, é uma questão de gosto pessoal e estética.
+```
