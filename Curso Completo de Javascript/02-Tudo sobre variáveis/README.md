@@ -43,9 +43,8 @@ A variante multilinha é um pouco mais longa, mas mais fácil de ler:
 let user = 'John';
 let age = 25;
 let message = 'Hello';
-Algumas pessoas também definem múltiplas variáveis ​​neste estilo multilinha:
 ```
-
+Algumas pessoas também definem múltiplas variáveis ​​neste estilo multilinha:
 ```hash
 let user = 'John',
   age = 25,
@@ -66,7 +65,7 @@ A principal diferença entre var e let em JavaScript está no escopo e no compor
 
 **var**
 - Escopo de Função: A variável declarada com var é escopada à função mais próxima. Se declarada fora de qualquer função, é global.
--Hoisting: As declarações de var são "elevadas" ao topo do seu escopo, mas não a inicialização. Isso significa que você pode usar a variável antes de sua declaração, mas ela terá o valor undefined até ser inicializada.
+- Hoisting: As declarações de var são "elevadas" ao topo do seu escopo, mas não a inicialização. Isso significa que você pode usar a variável antes de sua declaração, mas ela terá o valor undefined até ser inicializada.
 - Re-declaração: Permite re-declaração da mesma variável dentro do mesmo escopo.
 
 **let**
@@ -94,3 +93,32 @@ function example() {
 
 example();
 ```
+
+#### A diretiva "use strict"
+A diretiva "use strict"; foi introduzida no ECMAScript 5 (ES5), que foi padronizado em 2009. Ela é usada para habilitar o modo estrito em JavaScript, que impõe uma variante restrita do JavaScript, eliminando alguns comportamentos problemáticos e tornando o código mais seguro e robusto.
+
+**Benefícios do "use strict";**
+- Erros silenciosos: Converte erros silenciosos em erros explícitos.
+- Variáveis globais acidentais: Impede a criação de variáveis globais acidentais.
+- Propriedades duplicadas: Proíbe a definição de propriedades duplicadas em objetos.
+- Palavras reservadas: Proíbe o uso de palavras reservadas como nomes de variáveis.
+
+Exemplo de uso
+```hash
+"use strict";
+
+function exemplo() {
+    // Código JavaScript aqui
+}
+```
+
+Exemplo de comportamento
+```hash
+"use strict";
+
+x = 3.14; // ReferenceError: x is not defined
+```
+
+Sem "use strict";, a linha acima criaria uma variável global x implicitamente. 
+
+Com "use strict";, isso resulta em um erro, ajudando a evitar bugs difíceis de rastrear.
