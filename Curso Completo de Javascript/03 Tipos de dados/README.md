@@ -223,3 +223,23 @@ console.log('Tipo da variável:', typeof undefinedVariable);
 
 ##### Symbol (novo no ECMAScript (en-US) 6)
 Todos os primitivos são imutáveis (não podem ter o seu valor modificado).
+
+#### Exportar dados em javascript para outro arquivo
+
+Expondo para outros arquivos
+Para tornar um function, uma constante ou uma variável disponível em outros arquivos , eles precisam ser exportados usando a exportpalavra-chave . Outro arquivo pode então importá -los usando a importpalavra-chave . Isso também é conhecido como sistema de módulos. Um ótimo exemplo é como todos os testes funcionam. Cada exercício tem pelo menos um arquivo, por exemplo lasagna.js, que contém a implementação . Além disso, há pelo menos um outro arquivo, por exemplo lasagna.spec.js, que contém os testes . Este arquivo importa as entidades públicas (ou seja, exportadas) para testar a implementação:
+
+```hash
+// file.js
+export const MY_VALUE = 10;
+
+export function add(num1, num2) {
+  return num1 + num2;
+}
+
+// file.spec.js
+import { MY_VALUE, add } from './file';
+
+add(MY_VALUE, 5);
+// => 15
+```
