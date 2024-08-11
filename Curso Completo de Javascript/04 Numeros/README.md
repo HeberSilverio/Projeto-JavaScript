@@ -7,7 +7,7 @@ Onde encontrar conteúdo para se aprofundar:
 
 2. Sites e Recursos Online:
 
-- IEEE 754 Standard for Floating-Point Arithmetic (em inglês)
+- [IEEE 754 Standard for Floating-Point Arithmetic (em inglês)](https://en.wikipedia.org/wiki/IEEE_754)
 - Khan Academy - vídeos sobre conversão de números e representação binária.
 - Artigos sobre ponto flutuante no Medium - Procure por "IEEE 754 floating-point".
 
