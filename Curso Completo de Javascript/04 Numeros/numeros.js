@@ -26,3 +26,12 @@ console.log(num2);
 
 // num2 + num1 / 8 + 2;
 console.log(num2 + num1 / 8 + 2);
+
+
+var x = 3; // x contém o valor 3
+var y = 4; // y contém o valor 4
+ // x agora contém o valor 12
+
+ x = 2;
+console.log(x *= 3);
+console.log(x = x * 3);
