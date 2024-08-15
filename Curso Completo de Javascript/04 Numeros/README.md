@@ -68,3 +68,17 @@ alert( +apples + +oranges ); // 5
 // the longer variant
 // alert( Number(apples) + Number(oranges) ); // 5
 ```
+
+#### Precedência do operador
+Dentro de operadores de mesma precedência, a linguagem os agrupa por associatividade. Associatividade à esquerda (da esquerda para a direita) significa que é interpretado como (a OP1 b) OP2 c, enquanto associatividade à direita (da direita para a esquerda) significa que é interpretado como a OP1 (b OP2 c). Operadores de atribuição são associativos à direita, então você pode escrever:
+
+```hash
+a = b = 5; // same as writing a = (b = 5);
+```
+
+Como outro exemplo, o operador de exponenciação única tem associatividade à direita, enquanto outros operadores aritméticos têm associatividade à esquerda.
+
+```hash
+const a = 4 ** 3 ** 2; // Same as 4 ** (3 ** 2); evaluates to 262144
+const b = 4 / 3 / 2; // Same as (4 / 3) / 2; evaluates to 0.6666...
+```
