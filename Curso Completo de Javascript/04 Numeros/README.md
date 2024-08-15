@@ -82,3 +82,29 @@ Como outro exemplo, o operador de exponenciação única tem associatividade à 
 const a = 4 ** 3 ** 2; // Same as 4 ** (3 ** 2); evaluates to 262144
 const b = 4 / 3 / 2; // Same as (4 / 3) / 2; evaluates to 0.6666...
 ```
+
+```hash
+function echo(name, num) {
+  console.log(`Avaliando o ${name} lado`);
+  return num;
+}
+// Exponentiation operator (**) is right-associative,
+// but all call expressions (echo()), which have higher precedence,
+// will be evaluated before ** does
+console.log(echo("left", 4) ** echo("middle", 3) ** echo("right", 2));
+// Evaluating the left side
+// Evaluating the middle side
+// Evaluating the right side
+// 262144
+
+// Exponentiation operator (**) has higher precedence than division (/),
+// but evaluation always starts with the left operand
+console.log(echo("left", 4) / echo("middle", 3) ** echo("right", 2));
+// Evaluating the left side
+// Evaluating the middle side
+// Evaluating the right side
+// 0.4444444444444444
+```
+
+
+[Ver tabela de precedência](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence)
