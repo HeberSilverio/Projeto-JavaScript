@@ -1,37 +1,29 @@
-var meuInt = 5;
-var meuFloat = 6.667;
-meuInt;
-meuFloat;
-// console.log(typeof meuInt);
-// console.log(typeof meuFloat);
+let a = "" + 1 + 0;
+let b = "" - 1 + 0;
+let c = true + false;
+let d = 6 / "3";
+let e = "2" * "3";
+let f = 4 + 5 + "px";
+let g = "$" + 4 + 5;
+let h = "4" - 2;
+let i = "4px" - 2;
+let j = "  -9  " + 5;
+let k = "  -9  " - 5;
+let l = null + 1;
+let m = undefined + 1;
+let n = " \t \n" - 2;
 
-// 10 + 7;
-// 9 * 8;
-// 60 % 3;
-console.log(10 + 7);
-console.log(9 * 8);
-console.log(60 % 3);
-
-var num1 = 10;
-var num2 = 50;
-9 * num1;
-num2 / num1;
-
-// 5 + 10 * 3;
-// (num2 % 9) * num1;
-// num2 + num1 / 8 + 2;
-
-console.log(num1);
-console.log(num2);
-
-// num2 + num1 / 8 + 2;
-console.log(num2 + num1 / 8 + 2);
-
-
-var x = 3; // x contém o valor 3
-var y = 4; // y contém o valor 4
- // x agora contém o valor 12
-
- x = 2;
-console.log(x *= 3);
-console.log(x = x * 3);
+console.log(a, typeof a);
+console.log(b, typeof b);
+console.log(c, typeof c);
+console.log(d, typeof d);
+console.log(e, typeof e);
+console.log(f, typeof f);
+console.log(g, typeof g);
+console.log(h, typeof h);
+console.log(i, typeof i);
+console.log(j, typeof j);
+console.log(k, typeof k);
+console.log(l, typeof l);
+console.log(m, typeof m);
+console.log(n, typeof n);
