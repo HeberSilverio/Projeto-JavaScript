@@ -108,3 +108,20 @@ console.log(echo("left", 4) / echo("middle", 3) ** echo("right", 2));
 
 
 [Ver tabela de precedência](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence)
+
+
+#### Operadores bit a bit
+Operadores bit a bit tratam argumentos como números inteiros de 32 bits e trabalham no nível de sua representação binária.
+
+Esses operadores não são específicos do JavaScript. Eles são suportados na maioria das linguagens de programação.
+
+A lista de operadores:
+
+E ( &)
+OU ( |)
+XOU ( ^)
+NÃO ( ~)
+SHIFT ESQUERDA ( <<)
+DESLOCAMENTO À DIREITA ( >>)
+DESLOCAMENTO À DIREITA COM ZERO ( >>>)
+Esses operadores são usados ​​muito raramente, quando precisamos mexer com números no nível mais baixo (bitwise). Não precisaremos desses operadores tão cedo, pois o desenvolvimento web tem pouco uso deles, mas em algumas áreas especiais, como criptografia, eles são úteis. Você pode ler o capítulo [Bitwise Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#bitwise_operators) no MDN quando surgir uma necessidade.
