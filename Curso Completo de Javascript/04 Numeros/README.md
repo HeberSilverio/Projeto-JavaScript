@@ -156,7 +156,7 @@ Quais são os resultados dessas expressões?
 
 | Expressão          | Resultado    | variavel     | typeof       | Resultado no console       |
 |--------------------|--------------|--------------|--------------|--------------|
-| "" + 1 + 0 =       | "10" // (1)  | ```hash let a = "" + 1 + 0;``` | ```hash <br> console.log(a, typeof a); <br> ``` | 10 string |
+| "" + 1 + 0 =       | "10" // (1)  | ```hash let a = "" + 1 + 0;``` | ` console.log(a, typeof a); ` | 10 string |
 | "" - 1 + 0 =       | -1 // (2)    |let b = "" - 1 + 0; | console.log(b, typeof b); | -1 number |
 | true + false =     | 1            |let c = true + false; | console.log(c, typeof c); | 1 number |
 | 6 / "3" =          | 2            |let d = 6 / "3";  | console.log(d, typeof d); | 2 number |
@@ -170,3 +170,22 @@ Quais são os resultados dessas expressões?
 | null + 1 =         | 1 // (5)     |let l = null + 1; | console.log(l, typeof l); | 1 number |
 | undefined + 1 =    | NaN // (6)   |let m = undefined + 1; | console.log(m, typeof m); | NaN number |
 | " \t \n" - 2 =     | -2 // (7)    |let n = " \t \n" - 2; | console.log(n, typeof n); | -2 number |
+
+tentando quebrar linhas
+
+| Expressão          | Resultado    | Variável     | Tipo         | Resultado no console       |
+|--------------------|--------------|--------------|--------------|----------------------------|
+| "" + 1 + 0 =       | "10" // (1)  | let a = "" + 1 + 0; <br> console.log(a, typeof a); | 10 string |
+| "" - 1 + 0 =       | -1 // (2)    | let b = "" - 1 + 0; <br> console.log(b, typeof b); | -1 number |
+| true + false =     | 1            | let c = true + false; <br> console.log(c, typeof c); | 1 number |
+| 6 / "3" =          | 2            | let d = 6 / "3"; <br> console.log(d, typeof d); | 2 number |
+| "2" * "3" =        | 6            | let e = "2" * "3"; <br> console.log(e, typeof e); | 6 number |
+| 4 + 5 + "px" =     | "9px"        | let f = 4 + 5 + "px"; <br> console.log(f, typeof f); | 9px string |
+| "$" + 4 + 5 =      | "$45"        | let g = "$" + 4 + 5; <br> console.log(g, typeof g); | $45 string |
+| "4" - 2 =          | 2            | let h = "4" - 2; <br> console.log(h, typeof h); | 2 number |
+| "4px" - 2 =        | NaN          | let i = "4px" - 2; <br> console.log(i, typeof i); | NaN number |
+| "  -9  " + 5 =     | "  -9  5" // (3) | let j = "  -9  " + 5; <br> console.log(j, typeof j); |   -9  5 string |
+| "  -9  " - 5 =     | -14 // (4)   | let k = "  -9  " - 5; <br> console.log(k, typeof k); | -14 number |
+| null + 1 =         | 1 // (5)     | let l = null + 1; <br> console.log(l, typeof l); | 1 number |
+| undefined + 1 =    | NaN // (6)   | let m = undefined + 1; <br> console.log(m, typeof m); | NaN number |
+| " \t \n" - 2 =     | -2 // (7)    | let n = " \t \n" - 2; <br> console.log(n, typeof n); | -2 number |
