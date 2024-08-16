@@ -130,22 +130,22 @@ Esses operadores são usados ​​muito raramente, quando precisamos mexer com 
 
 Quais são os resultados dessas expressões?
 
-| Expressão                          |
-|------------------------------------|
-| "" + 1 + 0                 |
-| "" - 1 + 0                 |
-| true + false               |
-| 6 / "3"                    |
-| "2" * "3"                  |
-| 4 + 5 + "px"               |
-| "$" + 4 + 5                |
-| "4" - 2 (string)                   |
-| "4px" - 2                          |
-| "  -9  " + 5                       |
-| "  -9  " - 5                       |
-| null + 1                           |
-| undefined + 1                      |
-| " \t \n" - 2                       |
+| Expressão                          | Resultado    | Explicação                                                                 |
+|------------------------------------|--------------|----------------------------------------------------------------------------|
+| "" + 1 + 0                 | "10"         | A expressão "" + 1 + 0 é uma concatenação de strings. Primeiro, a string vazia "" é concatenada com o número 1, resultando em "1". Em seguida, a string "1" é concatenada com o número 0, resultando em "10". |
+| "" - 1 + 0                 | -1           | A expressão "" - 1 + 0 envolve operações de subtração e adição. A string vazia "" é convertida em 0. Em seguida, ocorre a subtração 0 - 1, resultando em -1. Por fim, o número -1 é somado com 0, resultando em -1. |
+| true + false               | 1            | A expressão true + false envolve uma operação de adição. O valor booleano true é convertido em 1 e o valor booleano false é convertido em 0. A soma de 1 + 0 resulta em 1. |
+| 6 / "3"                    | 2            | A expressão 6 / "3" envolve uma operação de divisão. A string "3" é convertida em um número 3. A divisão de 6 por 3 resulta em 2. |
+| "2" * "3"                  | 6            | A expressão "2" * "3" envolve uma operação de multiplicação. As strings "2" e "3" são convertidas em números 2 e 3, respectivamente. A multiplicação de 2 por 3 resulta em 6. |
+| 4 + 5 + "px"               | "9px"        | A expressão 4 + 5 + "px" envolve uma concatenação de strings. Primeiro, ocorre a adição de 4 e 5, resultando em 9. Em seguida, a string "px" é concatenada com o número 9, resultando em "9px". |
+| "$" + 4 + 5                | "$45"        | A expressão "$" + 4 + 5 envolve uma concatenação de strings. Primeiro, a string "$" é concatenada com o número 4, resultando em "$4". Em seguida, a string "$4" é concatenada com o número 5, resultando em "$45". |
+| "4" - 2 (string)                   | 2            | A expressão "4" - 2 envolve uma operação de subtração. A string "4" é convertida em um número 4. A subtração de 4 por 2 resulta em 2. |
+| "4px" - 2                          | NaN          | A expressão "4px" - 2 envolve uma operação de subtração. A string "4px" não pode ser convertida em um número, resultando em NaN (Not a Number). |
+| "  -9  " + 5                       | "  -9  5"    | A expressão "  -9  " + 5 envolve uma concatenação de strings. A string "  -9  " é concatenada com o número 5, resultando em "  -9  5". |
+| "  -9  " - 5                       | -14          | A expressão "  -9  " - 5 envolve uma operação de subtração. A string "  -9  " é convertida em um número -9. A subtração de -9 por 5 resulta em -14. |
+| null + 1                           | 1            | A expressão null + 1 envolve uma operação de adição. O valor null é convertido em 0. A soma de 0 + 1 resulta em 1. |
+| undefined + 1                      | NaN          | A expressão undefined + 1 envolve uma operação de adição. O valor undefined não pode ser convertido em um número, resultando em NaN (Not a Number). |
+| " \t \n" - 2                       | -2           | A expressão " \t \n" - 2 envolve uma operação de subtração. A string " \t \n" é convertida em um número 0, pois contém apenas caracteres de espaço em branco. A subtração de 0 por 2 resulta em -2. |
 
 > Pense bem, anote e depois compare com a resposta. 
 
@@ -154,9 +154,9 @@ Quais são os resultados dessas expressões?
 
 
 
-| Expressão          | Resultado    | variavel     | typeof       | Resultado no console       |
-|--------------------|--------------|--------------|--------------|--------------|
-| "" + 1 + 0 =       | "10" // (1)  | ```hash let a = "" + 1 + 0;``` | ` console.log(a, typeof a); ` | 10 string |
+| Expressão          | Resultado    | variavel     | value && typeof    | Resultado no console  |
+|--------------------|--------------|--------------|--------------------|-----------------------|
+| "" + 1 + 0 =       | "10" // (1)  | ` let a = "" + 1 + 0;` | ` console.log(a, typeof a); ` | 10 string |
 | "" - 1 + 0 =       | -1 // (2)    |let b = "" - 1 + 0; | console.log(b, typeof b); | -1 number |
 | true + false =     | 1            |let c = true + false; | console.log(c, typeof c); | 1 number |
 | 6 / "3" =          | 2            |let d = 6 / "3";  | console.log(d, typeof d); | 2 number |
@@ -171,21 +171,3 @@ Quais são os resultados dessas expressões?
 | undefined + 1 =    | NaN // (6)   |let m = undefined + 1; | console.log(m, typeof m); | NaN number |
 | " \t \n" - 2 =     | -2 // (7)    |let n = " \t \n" - 2; | console.log(n, typeof n); | -2 number |
 
-tentando quebrar linhas
-
-| Expressão          | Resultado    | Variável     | Tipo         | Resultado no console       |
-|--------------------|--------------|--------------|--------------|----------------------------|
-| "" + 1 + 0 =       | "10" // (1)  | let a = "" + 1 + 0; <br> console.log(a, typeof a); | 10 string |
-| "" - 1 + 0 =       | -1 // (2)    | let b = "" - 1 + 0; <br> console.log(b, typeof b); | -1 number |
-| true + false =     | 1            | let c = true + false; <br> console.log(c, typeof c); | 1 number |
-| 6 / "3" =          | 2            | let d = 6 / "3"; <br> console.log(d, typeof d); | 2 number |
-| "2" * "3" =        | 6            | let e = "2" * "3"; <br> console.log(e, typeof e); | 6 number |
-| 4 + 5 + "px" =     | "9px"        | let f = 4 + 5 + "px"; <br> console.log(f, typeof f); | 9px string |
-| "$" + 4 + 5 =      | "$45"        | let g = "$" + 4 + 5; <br> console.log(g, typeof g); | $45 string |
-| "4" - 2 =          | 2            | let h = "4" - 2; <br> console.log(h, typeof h); | 2 number |
-| "4px" - 2 =        | NaN          | let i = "4px" - 2; <br> console.log(i, typeof i); | NaN number |
-| "  -9  " + 5 =     | "  -9  5" // (3) | let j = "  -9  " + 5; <br> console.log(j, typeof j); |   -9  5 string |
-| "  -9  " - 5 =     | -14 // (4)   | let k = "  -9  " - 5; <br> console.log(k, typeof k); | -14 number |
-| null + 1 =         | 1 // (5)     | let l = null + 1; <br> console.log(l, typeof l); | 1 number |
-| undefined + 1 =    | NaN // (6)   | let m = undefined + 1; <br> console.log(m, typeof m); | NaN number |
-| " \t \n" - 2 =     | -2 // (7)    | let n = " \t \n" - 2; <br> console.log(n, typeof n); | -2 number |
