@@ -156,7 +156,7 @@ Quais são os resultados dessas expressões?
 
 | Expressão          | Resultado    | variavel     | typeof       | Resultado no console       |
 |--------------------|--------------|--------------|--------------|--------------|
-| "" + 1 + 0 =       | "10" // (1)  | ```hash let a = "" + 1 + 0;``` | ```hash console.log(a, typeof a); ``` | 10 string |
+| "" + 1 + 0 =       | "10" // (1)  | ```hash let a = "" + 1 + 0;``` | ```hash <br> console.log(a, typeof a); <br> ``` | 10 string |
 | "" - 1 + 0 =       | -1 // (2)    |let b = "" - 1 + 0; | console.log(b, typeof b); | -1 number |
 | true + false =     | 1            |let c = true + false; | console.log(c, typeof c); | 1 number |
 | 6 / "3" =          | 2            |let d = 6 / "3";  | console.log(d, typeof d); | 2 number |
