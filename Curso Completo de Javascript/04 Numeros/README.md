@@ -125,3 +125,27 @@ SHIFT ESQUERDA ( <<)
 DESLOCAMENTO À DIREITA ( >>)
 DESLOCAMENTO À DIREITA COM ZERO ( >>>)
 Esses operadores são usados ​​muito raramente, quando precisamos mexer com números no nível mais baixo (bitwise). Não precisaremos desses operadores tão cedo, pois o desenvolvimento web tem pouco uso deles, mas em algumas áreas especiais, como criptografia, eles são úteis. Você pode ler o capítulo [Bitwise Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#bitwise_operators) no MDN quando surgir uma necessidade.
+
+#### Conversões de tipo
+
+Quais são os resultados dessas expressões?
+
+| Expressão                          |
+|------------------------------------|
+| "" + 1 + 0 (10)                    |
+| "" - 1 + 0 (string)                |
+| true + false (false)               |
+| 6 / "3" (string)                   |
+| "2" * "3" (23)                     |
+| 4 + 5 + "px" (9px)                 |
+| "$" + 4 + 5 ($45)                  |
+| "4" - 2 (string)                   |
+| "4px" - 2                          |
+| "  -9  " + 5                       |
+| "  -9  " - 5                       |
+| null + 1                           |
+| undefined + 1                      |
+| " \t \n" - 2                       |
+
+> Pense bem, anote e depois compare com a resposta. 
+
