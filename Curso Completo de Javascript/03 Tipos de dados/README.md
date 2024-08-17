@@ -243,3 +243,23 @@ import { MY_VALUE, add } from './file';
 add(MY_VALUE, 5);
 // => 15
 ```
+
+
+#### Resumo
+Existem 8 tipos básicos de dados em JavaScript.
+
+Sete tipos de dados primitivos:
+numberpara números de qualquer tipo: inteiros ou de ponto flutuante, os inteiros são limitados por .±(253-1)
+bigintpara números inteiros de comprimento arbitrário.
+stringpara strings. Uma string pode ter zero ou mais caracteres, não há um tipo separado de caractere único.
+booleanpara true/ false.
+nullpara valores desconhecidos – um tipo autônomo que tem um único valor null.
+undefinedpara valores não atribuídos – um tipo autônomo que tem um único valor undefined.
+symbolpara identificadores exclusivos.
+E um tipo de dado não primitivo:
+objectpara estruturas de dados mais complexas.
+O typeofoperador nos permite ver qual tipo está armazenado em uma variável.
+
+Geralmente usado como typeof x, mas typeof(x)também é possível.
+Retorna uma string com o nome do tipo, como "string".
+Para nullretornos "object"– isso é um erro na linguagem, não é realmente um objeto.
