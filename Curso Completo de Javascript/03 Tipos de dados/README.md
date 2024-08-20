@@ -260,6 +260,3 @@ E um tipo de dado não primitivo:
 objectpara estruturas de dados mais complexas.
 O typeofoperador nos permite ver qual tipo está armazenado em uma variável.
 
-Geralmente usado como typeof x, mas typeof(x)também é possível.
-Retorna uma string com o nome do tipo, como "string".
-Para nullretornos "object"– isso é um erro na linguagem, não é realmente um objeto.
