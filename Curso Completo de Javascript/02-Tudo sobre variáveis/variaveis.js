@@ -44,19 +44,47 @@
 
 
 //Crie um objeto vazio user.
-let user = {};
+// let user = {};
 
-//Adicione a propriedade name com o valor John.
-user.name = "John 3.16";
+// //Adicione a propriedade name com o valor John.
+// user.name = "John 3.16";
 
-//Adicione a propriedade surname com o valor Smith.
-user.surname = "Deus amou o mundo";
+// //Adicione a propriedade surname com o valor Smith.
+// user.surname = "Deus amou o mundo";
 
-//Altere o valor de name para Pete.
-user.name = "John";
+// //Altere o valor de name para Pete.
+// user.name = "John";
 
-//Remova a propriedade name do objeto.
-delete user.name;
+// //Remova a propriedade name do objeto.
+// delete user.name;
 
-console.log(user);
-console.log(user.surname);
+// console.log(user);
+// console.log(user.surname);
+
+const person = {
+  name: {
+    first: "John",
+    last: "Smith"
+  },
+  age: 25,
+  bio: function() {
+    return this.name.first + " " + this.name.last + " tem " + this.age + " anos.";
+  },
+  introduceSelf: function() {
+    return "Olá! Meu nome é " + this.name.first + "!";
+  }
+};
+
+// Atualizando as propriedades do objeto name
+person.name.first = "Heber";
+person.name.last = "Smith";
+
+console.log(person.bio()); // John Smith tem 25 anos.
+console.log(person.introduceSelf()); // Olá! Meu nome é John!
+// console.log(person.name);
+console.log(person["name"]["first"]);
+// console.log(person.age);
+// console.log(person.bio());
+// console.log(person.introduceSelf());
+// person.bio();
+// person.introduceSelf();
