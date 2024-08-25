@@ -79,12 +79,17 @@ const person = {
 person.name.first = "Heber";
 person.name.last = "Smith";
 
-console.log(person.bio()); // John Smith tem 25 anos.
-console.log(person.introduceSelf()); // Olá! Meu nome é John!
-// console.log(person.name);
-console.log(person["name"]["first"]);
+person["eyes"] = "blue";
+person.farewell = function() {
+  console.log("Tchau!");
+};
+console.log(person); // John Smith tem 25 anos.
+// console.log(person.introduceSelf()); // Olá! Meu nome é John!
+// // console.log(person.name);
+// console.log(person["name"]["first"]);
 // console.log(person.age);
 // console.log(person.bio());
 // console.log(person.introduceSelf());
 // person.bio();
 // person.introduceSelf();
+person.farewell();
