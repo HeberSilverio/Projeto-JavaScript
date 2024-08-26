@@ -93,3 +93,13 @@ console.log(person); // John Smith tem 25 anos.
 // person.bio();
 // person.introduceSelf();
 person.farewell();
+
+let user = {
+  firstName: "Ilya",
+  sayHi() {
+    let arrow = () => alert(this.firstName);
+    arrow();
+  }
+};
+
+user.sayHi(); // Ilya
