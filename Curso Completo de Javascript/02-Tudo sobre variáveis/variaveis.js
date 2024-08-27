@@ -76,14 +76,14 @@ const person = {
 };
 
 // Atualizando as propriedades do objeto name
-person.name.first = "Heber";
-person.name.last = "Smith";
+// person.name.first = "Heber";
+// person.name.last = "Smith";
 
-person["eyes"] = "blue";
-person.farewell = function() {
-  console.log("Tchau!");
-};
-console.log(person); // John Smith tem 25 anos.
+// person["eyes"] = "blue";
+// person.farewell = function() {
+//   console.log("Tchau!");
+// };
+// console.log(person); // John Smith tem 25 anos.
 // console.log(person.introduceSelf()); // Olá! Meu nome é John!
 // // console.log(person.name);
 // console.log(person["name"]["first"]);
@@ -92,14 +92,39 @@ console.log(person); // John Smith tem 25 anos.
 // console.log(person.introduceSelf());
 // person.bio();
 // person.introduceSelf();
-person.farewell();
+// person.farewell();
 
-let user = {
-  firstName: "Ilya",
-  sayHi() {
-    let arrow = () => alert(this.firstName);
-    arrow();
+// let user = {
+//   firstName: "Ilya",
+//   sayHi() {
+//     let arrow = () => alert(this.firstName);
+//     arrow();
+//   }
+// };
+
+// user.sayHi(); // Ilya
+
+let ladder = {
+  step: 0,
+  up() {
+    this.step++;
+    return this;
+  },
+  down() {
+    this.step--;
+    return this;
+  },
+  showStep: function() { // shows the current step
+    console.log(this.step);
+    return this;
   }
 };
 
-user.sayHi(); // Ilya
+// ladder.up();
+// ladder.up();
+// ladder.down();
+// console.log(ladder.showStep()) // 1
+// ladder.down();
+// console.log(ladder.showStep()) // 0
+
+console.log(ladder.up().up().down().showStep().down().showStep());
