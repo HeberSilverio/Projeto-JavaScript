@@ -128,3 +128,13 @@ let ladder = {
 // console.log(ladder.showStep()) // 0
 
 console.log(ladder.up().up().down().showStep().down().showStep());
+
+function User(name) {
+  // this = {};  (implicitly)
+
+  // add properties to this
+  this.name = name;
+  this.isAdmin = false;
+
+  // return this;  (implicitly)
+}
