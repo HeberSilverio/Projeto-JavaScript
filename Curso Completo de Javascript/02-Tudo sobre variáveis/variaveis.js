@@ -139,9 +139,3 @@ function User(name) {
   // return this;  (implicitly)
 }
 
-let user = {
-  name: "Jack",
-  isAdmin: false
-};
-
-
