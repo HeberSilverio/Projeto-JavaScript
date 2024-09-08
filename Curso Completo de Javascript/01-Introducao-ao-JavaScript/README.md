@@ -6,6 +6,12 @@ A JavaScript foi criada em 1995 por Brendan Eich, um engenheiro da Netscape, e l
 
 Diferentemente da maioria das linguagens de programação , a linguagem JavaScript não possui o conceito de entrada e saída. Ela é projetada para funcionar como uma linguagem de script em um ambiente de terceiros, e cabe ao ambiente fornecer mecanismos para a comunicação com o mundo exterior. 
 
+RESUMO:
+
+O que é JavaScript exatamente?
+
+Uma linguagem de programação criada por Brendan Eich em 1995. É uma linguagem de script de alto nível, que se assemelha muito à linguagem inglesa natural em contraste com uma linguagem de baixo nível como assembly. Ser uma linguagem de script significa que JavaScript é alimentado por outra linguagem capaz de analisar e executar programas, também conhecidos como "scripts" , escritos em JavaScript.
+
 A JavaScript é uma linguagem dinâmica orientada a objetos; tem tipos e operadores, objetos e métodos. Uma das principais diferenças é que o JavaScript não tem classes; em vez disso, a funcionalidade de classe é realizada por protótipos de objetos. A outra diferença principal é que as funções são objetos, dando as funções a capacidade para armazenar código executável e serem passadas como parametro para qualquer outro objeto.
 
 ##### O que é JavaScript?
