@@ -139,3 +139,17 @@ function User(name) {
   // return this;  (implicitly)
 }
 
+var x = 10
+indefinido
+var y = 2.5
+indefinido
+x + y
+12,5
+x - y
+7,5
+x * y + x
+35
+y + y * 2
+7,5
+x % (y + 0.5)
+1
