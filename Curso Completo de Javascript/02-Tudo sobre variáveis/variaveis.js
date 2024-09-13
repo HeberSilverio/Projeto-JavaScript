@@ -142,4 +142,4 @@ function User(name) {
 var proceed = confirm('Você quer prosseguir?');
 if (proceed) {
   alert('Você escolheu prosseguir!');
-} else {console.log(proceed); }
+} else {console.log("Resultado de proceed: " + proceed); }
