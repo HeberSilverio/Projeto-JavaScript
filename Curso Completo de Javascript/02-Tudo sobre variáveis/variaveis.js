@@ -127,17 +127,17 @@ let ladder = {
 // ladder.down();
 // console.log(ladder.showStep()) // 0
 
-console.log(ladder.up().up().down().showStep().down().showStep());
+// console.log(ladder.up().up().down().showStep().down().showStep());
 
-function User(name) {
-  // this = {};  (implicitly)
+// function User(name) {
+//   // this = {};  (implicitly)
 
-  // add properties to this
-  this.name = name;
-  this.isAdmin = false;
+//   // add properties to this
+//   this.name = name;
+//   this.isAdmin = false;
 
-  // return this;  (implicitly)
-}
+//   // return this;  (implicitly)
+// }
 
 // var proceed = confirm('Você quer prosseguir?');
 // if (proceed) {
@@ -145,3 +145,11 @@ function User(name) {
 // } else {console.log("Resultado de proceed: " + proceed); }
 
 // prompt("Digite seu nome: ");
+
+function isMultipleOfFour(number) {
+  return number % 4 === 0;
+}
+
+// Exemplo de uso
+console.log(isMultipleOfFour(8));  // true
+console.log(isMultipleOfFour(10)); // false
