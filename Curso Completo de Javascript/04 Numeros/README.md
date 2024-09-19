@@ -171,3 +171,6 @@ Quais são os resultados dessas expressões?
 | undefined + 1 =    | NaN // (6)   |let m = undefined + 1; | console.log(m, typeof m); | NaN number |
 | " \t \n" - 2 =     | -2 // (7)    |let n = " \t \n" - 2; | console.log(n, typeof n); | -2 number |
 
+Depois que os três prompts forem concluídos, finalmente imprima o número de entrada em ordem crescente (ou seja, o menor número primeiro, o maior número por último).
+
+A forma geral de saída é mostrada a seguir:
