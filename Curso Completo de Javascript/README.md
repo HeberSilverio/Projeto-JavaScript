@@ -48,6 +48,7 @@
 ! Não (not) - 1º
 && E (and) - 2º
 || Ou (or) - 3º
+Operador de coalescência nulo '??'
 ### Estruturas Condicionais
 ### Arrays
 ### Object
