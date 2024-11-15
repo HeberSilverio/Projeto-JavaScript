@@ -4,14 +4,19 @@
 
 const sensorReading = [1, 2, 3, [null, 5, [4, 10], 89, "20", , [[[[, "96"]]]]]];
 
-function convert() {
-  // Achata o array, remove valores nulos/indefinidos, e converte strings para números
-  const flatArray = sensorReading.flat(Infinity).filter((temp) => temp !== null && temp !== undefined).map(Number);
-  
-  // Converte de Celsius para Fahrenheit
-  const mapped = flatArray.map((temperature) => (temperature * 9/5) + 32);
-  
-  console.log(mapped);
-}
+const resposta = sensorReading.flat();
+console.log('Resposta', resposta);
+const respostaFilter = resposta.filter();
+console.log('Filter', respostaFilter  );
 
-convert();
+// function convert() {
+//   // Achata o array, remove valores nulos/indefinidos, e converte strings para números
+//   const flatArray = sensorReading.flat(Infinity).filter((temp) => temp !== null && temp !== undefined).map(Number);
+  
+//   // Converte de Celsius para Fahrenheit
+//   const mapped = flatArray.map((temperature) => (temperature * 9/5) + 32);
+  
+//   console.log(mapped);
+// }
+
+// convert();
