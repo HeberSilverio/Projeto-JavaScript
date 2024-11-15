@@ -3,10 +3,12 @@
 //Assumption: Fahrenheit = Temperature in degree celsius
 
 const sensorReading = [1, 2, 3, [null, 5, [4, 10], 89, "20", , [[[[, "96"]]]]]];
+console.log('.push', sensorReading.push("Héber"), sensorReading);
 
-const resposta = sensorReading.flat();
+const resposta = sensorReading.flat(Infinity);
+console.log('.pop', resposta.pop(), resposta);
 console.log('Resposta', resposta);
-const respostaFilter = resposta.filter();
+const respostaFilter = resposta.filter( (temp) => temp != null );
 console.log('Filter', respostaFilter  );
 
 // function convert() {
