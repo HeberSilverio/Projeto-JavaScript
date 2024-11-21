@@ -1,3 +1,7 @@
+
+[Inglês na rede com áudio](https://inglesnarede.com.br/dicas/frases-para-se-comunicar-em-ingles/)
+[Wizard](https://www.wizard.com.br/idiomas/guia-de-conversacao-em-ingles-frases-e-expressoes-do-idioma/)
+[Alura Língua](https://www.aluralingua.com.br/artigos/guia-de-conversacao-com-as-frases-e-expressoes-mais-frequentes-em-ingles)
 <h3><strong>Para interagir com a equipe 💼</strong></h3>
 <table border="1">
   <thead>
