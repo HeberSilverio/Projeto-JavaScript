@@ -16,30 +16,106 @@ Para interagir com a equipe:
 |Back to the drawing board|Voltar à estaca zero|
 
 <h3><strong>Frases para conversar em inglês 💬</strong></h3>
-<ul>
-  <li>“Hello, my name is (seu nome).” (Olá, meu nome é (seu nome).)</li>
-  <li>“How are you?” (Como você está?)</li>
-  <li>“I’m fine, thank you. How about you?” (Estou bem, obrigado. E você?)</li>
-  <li>“Not so good. How about you?” (Não muito bem. E você?)</li>
-  <li>“What have you been up to?” (O que você tem feito?)</li>
-  <li>“What’s new with you?” (Quais as novidades?)</li>
-  <li>“How has your day been?” (Como foi seu dia?)</li>
-  <li>“What do you do for a living?” (Com o que você trabalha?)</li>
-  <li>“What are your hobbies?” (Quais são seus hobbies?)</li>
-  <li>“Have you seen any good movies/shows lately?” (Você tem visto algum filme/série legal ultimamente?)</li>
-  <li>“What’s your favorite type of music?” (Qual seu gênero musical favorito?)</li>
-  <li>“Do you have any plans for the weekend?” (Você tem planos para o fim de semana?)</li>
-  <li>“What kind of food do you like?” (Que tipo de comida você gosta?)</li>
-  <li>“How’s work/school?” (Como vai o trabalho/a escola?)</li>
-  <li>“Did anything interesting happen today?” (Aconteceu algo de interessante hoje?)</li>
-  <li>“What do you think about this?” (O que você acha disso?)</li>
-  <li>“What are your thoughts on this?” (Quais suas opiniões sobre isso?)</li>
-  <li>“What are you reading/watching/listening to?” (O que você está lendo/assistindo/ouvindo ultimamente?)</li>
-  <li>“Do you have any plans for tonight?” (Você tem planos para hoje à noite?)</li>
-  <li>“How’s your family/friends?” (Como está sua família/seus amigos?)</li>
-  <li>“What do you like to do for fun?” (O que você gosta de fazer para se divertir?)</li>
-  <li>“What’s your favorite movie/book/song?” (Qual é seu filme/livro/música favorito?)</li>
-</ul>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>English</th>
+      <th>Português</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hello, my name is (seu nome).</td>
+      <td>Olá, meu nome é (seu nome).</td>
+    </tr>
+    <tr>
+      <td>How are you?</td>
+      <td>Como você está?</td>
+    </tr>
+    <tr>
+      <td>I’m fine, thank you. How about you?</td>
+      <td>Estou bem, obrigado. E você?</td>
+    </tr>
+    <tr>
+      <td>Not so good. How about you?</td>
+      <td>Não muito bem. E você?</td>
+    </tr>
+    <tr>
+      <td>What have you been up to?</td>
+      <td>O que você tem feito?</td>
+    </tr>
+    <tr>
+      <td>What’s new with you?</td>
+      <td>Quais as novidades?</td>
+    </tr>
+    <tr>
+      <td>How has your day been?</td>
+      <td>Como foi seu dia?</td>
+    </tr>
+    <tr>
+      <td>What do you do for a living?</td>
+      <td>Com o que você trabalha?</td>
+    </tr>
+    <tr>
+      <td>What are your hobbies?</td>
+      <td>Quais são seus hobbies?</td>
+    </tr>
+    <tr>
+      <td>Have you seen any good movies/shows lately?</td>
+      <td>Você tem visto algum filme/série legal ultimamente?</td>
+    </tr>
+    <tr>
+      <td>What’s your favorite type of music?</td>
+      <td>Qual seu gênero musical favorito?</td>
+    </tr>
+    <tr>
+      <td>Do you have any plans for the weekend?</td>
+      <td>Você tem planos para o fim de semana?</td>
+    </tr>
+    <tr>
+      <td>What kind of food do you like?</td>
+      <td>Que tipo de comida você gosta?</td>
+    </tr>
+    <tr>
+      <td>How’s work/school?</td>
+      <td>Como vai o trabalho/a escola?</td>
+    </tr>
+    <tr>
+      <td>Did anything interesting happen today?</td>
+      <td>Aconteceu algo de interessante hoje?</td>
+    </tr>
+    <tr>
+      <td>What do you think about this?</td>
+      <td>O que você acha disso?</td>
+    </tr>
+    <tr>
+      <td>What are your thoughts on this?</td>
+      <td>Quais suas opiniões sobre isso?</td>
+    </tr>
+    <tr>
+      <td>What are you reading/watching/listening to?</td>
+      <td>O que você está lendo/assistindo/ouvindo ultimamente?</td>
+    </tr>
+    <tr>
+      <td>Do you have any plans for tonight?</td>
+      <td>Você tem planos para hoje à noite?</td>
+    </tr>
+    <tr>
+      <td>How’s your family/friends?</td>
+      <td>Como está sua família/seus amigos?</td>
+    </tr>
+    <tr>
+      <td>What do you like to do for fun?</td>
+      <td>O que você gosta de fazer para se divertir?</td>
+    </tr>
+    <tr>
+      <td>What’s your favorite movie/book/song?</td>
+      <td>Qual é seu filme/livro/música favorito?</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h3><strong>Expressões de cordialidade em inglês para o dia-a-dia 💬</strong></h3>
 <p>&nbsp;</p>
