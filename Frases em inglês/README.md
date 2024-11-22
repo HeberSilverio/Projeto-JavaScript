@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>Can we schedule a call to discuss this?</td>
-      <td>Podemos marcar uma chamada/ligação para conversarmos mais sobre isso?</td>
+      <td>Podemos marcar uma chamada para conversarmos mais sobre isso?</td>
     </tr>
     <tr>
       <td>Let's meet on Wednesday</td>
@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td>I'm busy. Can I call you later?</td>
-      <td>Estou ocupado(a). Posso ligar para você mais tarde?</td>
+      <td>Estou ocupado. Posso ligar para você mais tarde?</td>
     </tr>
     <tr>
       <td>I am available on Monday</td>
@@ -130,8 +130,8 @@
       <td>Que tipo de comida você gosta?</td>
     </tr>
     <tr>
-      <td>How’s work/school?</td>
-      <td>Como vai o trabalho/a escola?</td>
+      <td>How’s work?</td>
+      <td>Como vai o trabalho?</td>
     </tr>
     <tr>
       <td>Did anything interesting happen today?</td>
