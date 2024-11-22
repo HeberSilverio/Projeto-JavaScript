@@ -154,8 +154,8 @@
       <td>Você tem planos para hoje à noite?</td>
     </tr>
     <tr>
-      <td>How’s your family/friends?</td>
-      <td>Como está sua família/seus amigos?</td>
+      <td>How’s your family?</td>
+      <td>Como está sua família?</td>
     </tr>
     <tr>
       <td>What do you like to do for fun?</td>
@@ -184,11 +184,11 @@
     </tr>
     <tr>
       <td>Thank you</td>
-      <td>Obrigado/a</td>
+      <td>Obrigado</td>
     </tr>
     <tr>
       <td>Thank you very much</td>
-      <td>Muito obrigado/a</td>
+      <td>Muito obrigado</td>
     </tr>
     <tr>
       <td>You're welcome</td>
@@ -461,6 +461,10 @@
     <tr>
       <td>What is the address for this building/place?</td>
       <td>Qual o endereço deste edifício/local?</td>
+    </tr>
+    <tr>
+      <td>What is your address?</td>
+      <td>Qual é o seu endereço?</td>
     </tr>
   </tbody>
 </table>
