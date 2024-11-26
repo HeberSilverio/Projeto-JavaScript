@@ -459,8 +459,8 @@
       <td>Você pode me dizer os preços para essa excursão/atividade?</td>
     </tr>
     <tr>
-      <td>What is the address for this building/place?</td>
-      <td>Qual o endereço deste edifício/local?</td>
+      <td>What is the address for this place?</td>
+      <td>Qual o endereço deste local?</td>
     </tr>
     <tr>
       <td>What is your address?</td>
@@ -484,7 +484,7 @@
     </tr>
     <tr>
       <td>Hello, this is [your name].</td>
-      <td>Alô, aqui é a/o [seu nome].</td>
+      <td>Alô, aqui é o [seu nome].</td>
     </tr>
     <tr>
       <td>Hello, can I speak to [name] please?</td>
