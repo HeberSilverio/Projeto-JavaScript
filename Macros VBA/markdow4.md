@@ -9,14 +9,14 @@ Sub ListAllConditionalFormat()
 
     Application.EnableEvents = False
     Application.ScreenUpdating = False
-    Worksheets("PREPARAR BASE").Cells.Clear
+    Worksheets("report").Cells.Clear
 
     For Each ws In ThisWorkbook.Worksheets
         Debug.Print ws.Name
 
         For Each cf In ws.Cells.FormatConditions
             l = 1 + l
-            With Worksheets("PREPARAR BASE")
+            With Worksheets("report")
                 Set rngCell = .Cells(l, 1)
                 rngCell = cf.AppliesTo.Address
                 rngCell.Offset(0, 1) = cf.Type
