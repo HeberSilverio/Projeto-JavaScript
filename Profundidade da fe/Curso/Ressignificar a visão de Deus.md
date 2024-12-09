@@ -10,3 +10,8 @@ Não existe o Deus descrito acima, o que a bíblia diz é:
 
 
 
+Ressignificar a visão de Deus 
+1.	Quem é Deus?
+2.	O que você vai receber de Deus está diretamente ligado com o que você crê que Deus é. Não o que Deus é, mas o que você crê que Deus é.
+Você nunca vai agir de acordo com a sua identidade, mas você vai agir de acordo com a identidade que você crê que você tem. Qual a identidade que Deus vê em você? Se você crer errado sobre você mesmo os seus resultados não serão o que você quer.  
+Minuto 7:00 -  https://www.youtube.com/watch?v=hjEXwMoWJcI 
