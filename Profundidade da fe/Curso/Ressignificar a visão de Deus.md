@@ -7,3 +7,6 @@ Não existe o Deus descrito acima, o que a bíblia diz é:
 - Todo aquele que pede recebe
 
 - Ler a palavra de Deus sem o pensamento religioso
+
+
+
