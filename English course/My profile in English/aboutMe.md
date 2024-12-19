@@ -24,6 +24,7 @@ E participei novamente desta feira agora em dezembro. E adiciono a nova ferramen
 
 3. Describe a challenging project you have worked on. What was your role, and how did you overcome the challenges?
 3. Descreva um projeto desafiador em que você trabalhou. Qual era sua função e como você superou os desafios?
+
 --- QUAL PROJETO (Recognition App)
 -+- QUAL DESAFIO (Desafio foi o tempo de entrega, porque o objetivo da empresa era desenvolver o App e fazer o lançamento dele na feira de tecnologia que aconteceria em abril, e nós começamos a desenvolver em Janeiro)
 --- COMO RESOLVEU ()
