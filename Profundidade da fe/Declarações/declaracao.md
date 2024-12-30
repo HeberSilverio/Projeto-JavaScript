@@ -13,7 +13,7 @@ Plenitude e Felicidade
 Lazer, Hobbies e Diversão
 
 
-
+ 
 “... conservemos firmes a nossa confissão” Hb 4.14 ARA
 Mantenho a firmeza em confessar porque tenho Jesus o Filho de Deus, o grande sumo sacerdote que adentrou os céus.
 
