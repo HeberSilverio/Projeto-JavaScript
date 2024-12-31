@@ -1,4 +1,4 @@
-Porque fazemos declarações:
+#### Porque fazemos declarações:
 "Coisas entra na minha vida por causa do que sai da minha boca"
 
 Muitos não entendem que o cremos é o problema. Muitos pensam que o coração é problema, mas na verdade o que você acredita é o problema.
@@ -27,8 +27,38 @@ Tem pessoas que dizem, "eu tenho dificuldade de lembrar nomes". Pronto, acabou d
 
 Pode chamar de declarações, decretos, profissões, confições o que quer que seja. 
 
+Se algo aconteceu é porque algo foi falado. Pode ser que não tenhamos algo apenas por dizer, mas dizer algo é necessário para ter algo. Dizer não é o todo mas é um pedaço do todo.
+
+Deus quer te levar a reformar suas crenças, Ele vai colocar esperança em você.
+
+A nossa identidade não vem do que fizemos, mas do que fomos criados para fazer.
+
+- "O fruto pode não estar em mim ainda mas eu tenho o dom. Está chegando!"
+- "O fruto de uma grande liderança pode não estar em mim ainda mas eu sou um grande lider!"
+- "O fruto de milagres pode não estar em mim, mas eu sou um operador de milagres!"
+
+A minha fortaleza dizia não, há um limite em sua vida. Você foi criado em desvantagens e com limitações. Foi o que minha fortaleza disse. E eu tive que derrubar esta fortaleza, tive que demolir argumentos.
+
+É uma coisa poderosa quando entramos em acordo com Deus.
+
+Precisamos quebrar nossa cultura de derrota. 
+
+Experimente fazer 100 declarações por dia por um mês. Vai só experimente e me diga o que deu:
+- "Onde quer que eu vá o avivamento vem"
+- "Minhas orações pela minha família estão funcionando"
+- "Minhas orações pela minha nação estão funcionando"
+- "Esse vai ser o melhor dia da minha vida até agora. Meu melhor dia espiritual, emocional, relacional, financeiro será hoje!"
+(EBOOK 100 DECLARAÇÕES RÁPIDAS PARA FAZER POR DIA, DURANTE UM MÊS!)
+
+Mesmo que após começar a declarar se não tiver o melhor dia da sua vida, mas você já estará quebrando a cultura de derrota.
+
+**Deus não quer que usemos a nossas palavras para descrever a nossas vidas, ele quer que usemos as nossas palavras para mudar as nossa vidas!**
+
+#### Outra razão pelo qual faço declarações:
+- É para me inspirar e para me encorajar. 
+
 https://www.youtube.com/watch?v=V-kydlGpGc8
-minuto 11:06
+minuto 41:06
 
 **Aprender a discenir corretamente a palavra** ela produzirá:
 - liberdade 
