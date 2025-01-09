@@ -17,3 +17,7 @@ KJA
 KJA
 
 ****
+
+Será que houve uma falha na capacidade de abundância do mundo e por isso temos tantas pessoas pobres?
+
+Qual a intenção por trás dos filmes e novelas em colocar os ricos como orgulhosos e maus?

@@ -1,5 +1,5 @@
 #### Porque fazemos declarações:
-"Coisas entra na minha vida por causa do que sai da minha boca"
+"Coisas entram na minha vida por causa do que sai da minha boca"
 
 Muitos não entendem que o cremos é o problema. Muitos pensam que o coração é problema, mas na verdade o que você acredita é o problema.
 Rm 12.2 Seja transformado pela renovação da sua mente. Transforme-se acreditando e pensando em algo mais alto do que você está sentindo e experimentando. Ser transformado é crer intencionalmente nas promessas de Deus. Essa transformação não vem da entrega do seu coração ela vem da entrega da suas crenças.
