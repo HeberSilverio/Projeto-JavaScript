@@ -1,6 +1,13 @@
 #### Porque fazemos declarações:
 "Coisas entram na minha vida por causa do que sai da minha boca"
 
+#### Outra razão pelo qual faço declarações:
+- É para me inspirar e para me encorajar. 
+
+### 
+- Para convencer o meu coração
+
+
 Muitos não entendem que o cremos é o problema. Muitos pensam que o coração é problema, mas na verdade o que você acredita é o problema.
 
 Rm 12.2 Seja transformado pela renovação da sua mente. Transforme-se acreditando e pensando em algo mais alto do que você está sentindo e experimentando. Ser transformado é crer intencionalmente nas promessas de Deus. Essa transformação não vem da entrega do seu coração ela vem da entrega da suas crenças.
@@ -55,8 +62,6 @@ Mesmo que após começar a declarar se não tiver o melhor dia da sua vida, mas 
 
 **Deus não quer que usemos a nossas palavras para descrever a nossas vidas, ele quer que usemos as nossas palavras para mudar as nossa vidas!**
 
-#### Outra razão pelo qual faço declarações:
-- É para me inspirar e para me encorajar. 
 
 https://www.youtube.com/watch?v=V-kydlGpGc8
 minuto 41:06
