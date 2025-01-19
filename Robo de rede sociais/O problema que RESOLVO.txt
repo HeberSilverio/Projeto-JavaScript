@@ -1,0 +1,8 @@
+O problema que iremos solucionar é: "VENDAS"
+Queremos fazer um robô que vende
+
+
+Clínicas (Médicas, Esteticas, etc) > Atendimento, Agendamento, Consulta
+
+Imobiliaria
+
