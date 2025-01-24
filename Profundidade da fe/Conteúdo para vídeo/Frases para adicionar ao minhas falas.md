@@ -1,0 +1,3 @@
+- Quando pessoas fazem muito dinheiro e dinheiro rápido com alguma coisa que não faz parte do propósito delas, com algumas coisas que não arde o coração, elas desanimam. Quando você faz algo só pelo dinheiro, quando você consegue o dinheiro que você queria, continuar acaba a graça. Exemplo: bombar com PLR de um assunto que não faz sentido pra você.
+
+- Você pode conquistar tudo que você quiser na vida, quando você ajudar as pessoas a conseguir o que elas querem!
