@@ -27,3 +27,4 @@ Leis de Deus e são leis espirituais tudo que vemos foi criado por um espirito
 ###  
 
 
+Salmos 64.3 "afiam a lingua como espadas.." 64.8 cair pelas próprias palavras
