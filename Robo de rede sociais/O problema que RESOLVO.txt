@@ -6,3 +6,9 @@ Clínicas (Médicas, Esteticas, etc) > Atendimento, Agendamento, Consulta
 
 Imobiliaria
 
+
+TIPOS DE ROBÔS
+- Pré definido: você escolhe o fluxo que o lead irá seguir (bom pra funil de vendas)
+- Com IA: (bom pra tirar dúvida e )
+
+Um fluxo com inteligência artificial pode ser puglado em um robô pré-definido
