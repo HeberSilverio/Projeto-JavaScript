@@ -1,8 +1,48 @@
-O problema que iremos solucionar é: "VENDAS"
-Queremos fazer um robô que vende
+METODO PARA ENCONTRA CLIENTES - DEAL 
+
+1. **Definir**
+    - Nicho: Tem que ser um nicho que tem capacidade financeira para comprar um robô e que poderá se interessar ao ver as automações que já temos.
+    - Solução: Escolher o nicho de acordo com o robôs que já temos pronto.
+
+2. **Encontrar:**
+    - Ads Library https://www.facebook.com/ads/library/
+    - Caça em Patrocinado + Manipulação do seu algoritmo
+    - Pesquisa no google
+            O profissional que trabalha em uma clínica de estética é chamado de esteticista. 
+            O esteticista é um profissional especializado em estética e cosmética, que realiza procedimentos estéticos para melhorar a qualidade de vida das pessoas. 
+            O esteticista pode atuar em diversos locais, como: Clínicas de estética, Clínicas de fisioterapia, Salões de beleza, Spas e resorts. 
+            Para se tornar esteticista, é necessário fazer um curso de nível superior em Estética e Cosmética. 
+
+      site:instagram.com "esteticista" "@gmail.com"
+      site:linkedin.com dentista telefone "Indaiatuba"
+      site:instagram.com dentista "Indaiatuba"
+      Outros termos para busca: WhatsApp, whats, telefone fixo, celular
+
+    - Youtube, google, linkedin
+    - Instagram Balde
+
+    Formate esses dados em uma tabela. Certifique-se de que as colunas seja Localização, Nome Completo, Endereço de Email, Nome da Empresa, Link do Site, Número de Telefone, WhatsApp, Link do Instagram e Link do Linkedin. Remova todas as duplicatas da tabela e disponibilize para baixar para excel
 
 
 
+3. **Analisar:**
+    - Situação
+    - Problemas
+    - Canais
+
+    
+
+Seu objetivo: Listar PELO MENOS 10 clientes por dia e abordar todos eles, até fechar sua meta de cliente.
+JÁ DEIXAR DEFINIDOS AS 10 PRIMEIRAS EMPRESAS PARA ABORDAR
+
+
+# Framework de uma Agência com a Matriz Fênix
+
+**Fase Prospecção**
+**Fase Apresentação**
+**Fase Fechamento**
+**Fase Implementação**
+**Fase LTV**
 
 # MELHORES SETORES DA EMPRESA PARA AUTOMATIZAR
 
