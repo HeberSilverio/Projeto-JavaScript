@@ -1,0 +1,190 @@
+O problema que iremos solucionar é: "VENDAS"
+Queremos fazer um robô que vende
+
+
+
+
+# MELHORES SETORES DA EMPRESA PARA AUTOMATIZAR
+
+- Marketing
+- Venda
+- Atendimento/Suporte
+- Gestão
+
+
+# TIPOS DE ROBÔS
+- Conversacional
+- Operador
+- Criativo
+- Pré definido: você escolhe o fluxo que o lead irá seguir (bom pra funil de vendas)
+- Com IA: (bom pra tirar dúvida e ) Um fluxo com inteligência artificial pode ser puglado em um robô pré-definido
+
+Aumento de Lucro
+   Responder os clientes mais rápido
+   Responder melhor os clientes
+   Recuperar vendas perdidas
+   Oferecer novos produtos
+
+Diminuição de Custos
+   Funcionários improdutivos
+   Gargalos operacionais
+
+Aumento de Produtividade
+   Redução de tarefas repetitivas
+
+Principais Automações
+   Fluxo de vendas
+   Recuperação de venda
+
+   Agentes de IA API 
+      Vendedor
+      Suporte
+      Atendimento
+      SDR
+
+   Agente de IA Interface
+      Copywriter
+      Disparador
+      Product Manager
+
+
+Principais Automações
+1. Fluxo de Vendas
+Automação que otimiza o processo de vendas desde a captação do lead até a conversão. Pode incluir:
+
+Qualificação automática de leads (ex: perguntar interesses e segmentar automaticamente).
+Envio de mensagens personalizadas para cada etapa do funil.
+Agendamento de reuniões ou chamadas automaticamente.
+Integração com CRM para registrar interações e histórico do cliente.
+2. Recuperação de Venda
+Foco em retomar o contato com clientes que abandonaram a compra ou demonstraram interesse, mas não concluíram.
+
+Envio automático de mensagens para lembrar o cliente do carrinho abandonado.
+Ofertas personalizadas com descontos ou bônus para incentivar a finalização da compra.
+Follow-up via WhatsApp, e-mail ou SMS em horários estratégicos.
+Uso de IA para entender objeções e responder dúvidas comuns automaticamente.
+Agentes de IA API
+São agentes de IA que funcionam integrados via API, permitindo que sistemas automatizados assumam funções específicas sem a necessidade de uma interface visual.
+
+1. Vendedor
+Atua como um assistente comercial, interagindo com clientes, explicando produtos e guiando até a compra.
+Pode enviar recomendações de produtos baseadas no comportamento do usuário.
+Faz perguntas para entender as necessidades do cliente e oferecer soluções mais personalizadas.
+2. Suporte
+Responde dúvidas frequentes automaticamente, reduzindo a carga do atendimento humano.
+Pode gerar tickets para problemas mais complexos e direcionar para humanos quando necessário.
+Integra-se a bancos de conhecimento e FAQs para fornecer respostas precisas.
+3. Atendimento
+Um chatbot mais genérico que pode lidar com consultas, suporte e direcionamento de clientes para diferentes setores.
+Pode capturar informações do cliente antes de transferir para um atendente humano.
+Disponível 24/7 para responder a perguntas básicas e coletar dados.
+4. SDR (Sales Development Representative)
+Atua como um pré-vendedor, qualificando leads antes de passá-los para um vendedor humano.
+Pergunta sobre interesses, orçamento e necessidades do cliente.
+Integra-se com CRMs e agendas para marcar reuniões automaticamente.
+Agentes de IA Interface
+Diferente dos agentes via API, esses interagem diretamente com os usuários através de interfaces visuais, como chats, e-mails e sistemas de mensagens.
+
+1. Copywriter
+Gera textos automaticamente para anúncios, e-mails, postagens em redes sociais e descrições de produtos.
+Usa inteligência artificial para criar mensagens persuasivas e adaptar o tom de voz conforme necessário.
+Pode realizar testes A/B e analisar a performance de diferentes versões de textos.
+2. Disparador
+Responsável pelo envio automático de mensagens para clientes via WhatsApp, SMS, e-mail, Telegram, etc.
+Baseado em gatilhos, pode enviar mensagens de boas-vindas, follow-ups e lembretes de compra.
+Personaliza as mensagens de acordo com o comportamento e o perfil do cliente.
+3. Product Manager
+Atua como um assistente para gestão de produtos, organizando backlog, coletando feedback de usuários e sugerindo melhorias.
+Pode analisar tendências de mercado e sugerir novas funcionalidades para produtos e serviços.
+Integra-se com ferramentas como Trello, Jira e CRMs para facilitar a gestão de tarefas.
+Conclusão
+Essas automações e agentes de IA ajudam as empresas a vender mais, atender melhor os clientes e otimizar operações. Com elas, você pode oferecer soluções inteligentes para negócios que querem escalar sem aumentar custos com equipes gigantes.
+
+
+
+# MELHORES SOLUÇÕES PARA OFERECER
+
+**Setor de Clinicas, delivery, escolas, Imobiliário, automóveis e escritórios:** Robô Ultra-Inteligente de Atendimento (Faz agendamentos, envia cardápios/imagens, aciona humanos)
+
+**Setor E-commerce, infoprodutos, mentores, redes socias e lançamentos de produtos.:** Robôs Ultra-Inteligente vendedores, Robôs de Recuperação de Vendas, Robôs de Suporte ao Cliente
+
+**Setor Consultorias/High Ticket/Assessorias:** Robôs Ultra-Inteligentes SDR(faz o primeiro contato com os leads, prepara o lead e envia para um closer)
+
+
+
+Clínicas (Médicas, Esteticas,  Clinicas de Raio-X) > Atendimento, Agendamento, Consulta
+Imobiliaria > Atendimento, Agendamento, 
+
+
+ETAPA DE VENDAS
+
+
+1. Listagem de Problemas
+2. Listagem da solução
+3. Implicação de nao resolver problema
+4. Cenário possível com a solução
+5. Entregáveis para a solução
+6. Preços
+7. Próximos passos
+
+- Reunião de Fechamento
+    
+    
+    Essa é uma reunião de tira dúvidas, onde o cliente vai te fazer perguntas sobre sua proposta comercial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CID Centro de Imagem Diagnóstica
+Endereço: Rua Pedro Gonçalves, 710, Indaiatuba - SP
+Telefone: (19) 3934-9695
+
+MRI - Métodos Radiológicos & Imagens
+Endereço: Avenida Presidente Vargas, 1571, Indaiatuba - SP
+Telefone: (19) 2516-9600
+
+Alfa Diagnósticos
+Endereço: Vila Vitória II, Indaiatuba - SP, CEP 13334-085
+Telefones: (19) 3329-4426, (19) 3329-4425, (19) 3834-2396
+
+Vera Cruz Centro Médico São Camilo
+Endereço: Rua Miguel Fernandes Garcia Filho, 540, Chácara Areal, Indaiatuba - SP
+Telefones: (19) 3115-6600, (19) 3751-3770, (19) 98396-0806
+
+DX Diagnósticos
+Endereço: Avenida Fábio Ferraz Bicudo, 351, Jardim Esplanada, Indaiatuba - SP
+Telefones: (19) 99799-0762, (19) 3328-3753, (19) 3328-3752
+
+Unimagem
+Endereço: Rua Armando Salles de Oliveira, 1725, Cidade Nova I, Indaiatuba - SP
+Telefones: Não especificado no texto, mas você pode acessar: radiologiaunimagem.com.br
+
+Hospital Santa Ignês
+Endereço: Avenida Presidente Vargas, 1591, Indaiatuba - SP
+Telefone: (19) 3885-8400
+
+CID Centro de Imagem Diagnóstica
+Endereço: Rua Pedro Gonçalves, 710, Centro, Indaiatuba - SP
+Telefones: (19) 99715-2182, (19) 3934-9695
+
+Rodig Radiologia
+Endereço: Rua Doutor Oswaldo Cruz, 784, Cidade Nova I, Indaiatuba - SP
+Telefones: (19) 3816-8767, (19) 3875-3334
+WhatsApp: (19) 99926-1651
+
+Diagmed Medicina Diagnóstica - Indaiatuba
+Endereço: Avenida Presidente Vargas, 1780, Vila Vitória II, Indaiatuba - SP
+Telefone: Não especificado diretamente, mas pode ser consultado no site: diagmed.com.br
+
+
