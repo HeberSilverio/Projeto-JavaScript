@@ -21,7 +21,7 @@ METODO PARA ENCONTRA CLIENTES - DEAL
     - Youtube, google, linkedin
     - Instagram Balde
 
-    Formate esses dados em uma tabela. Certifique-se de que as colunas seja Localização, Nome Completo, Endereço de Email, Nome da Empresa, Link do Site, Número de Telefone, WhatsApp, Link do Instagram e Link do Linkedin. Remova todas as duplicatas da tabela e disponibilize para baixar para excel
+    Formate esses dados em uma tabela. Certifique-se de que as colunas seja Origem(para esta lista coloque a origem de todos como "google"), Empresa, Email, WhatsApp, Contato do responsável,  Instagram , Youtube, Site. Para o instagram ou site ou qualquer outro que pode ter link não coloque o link, escreva visivelmente. Remova todas as duplicatas da tabela:
 
 
 
@@ -30,7 +30,8 @@ METODO PARA ENCONTRA CLIENTES - DEAL
     - Problemas
     - Canais
 
-    
+
+Listar    
 
 Seu objetivo: Listar PELO MENOS 10 clientes por dia e abordar todos eles, até fechar sua meta de cliente.
 JÁ DEIXAR DEFINIDOS AS 10 PRIMEIRAS EMPRESAS PARA ABORDAR

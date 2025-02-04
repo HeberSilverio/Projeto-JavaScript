@@ -1,4 +1,6 @@
-1. Quem é o seu público-alvo?
+Este é o título do meu livro: 70 Frases que te Impedem de ter Dinheiro, Subtítulo: Aprenda a identificar as crenças limitantes sobre dinheiro e como se livrar delas
+
+1. Quem é o meu público-alvo?
 ### Características principais:
 - Adultos que têm interesse em desenvolvimento pessoal, negócios e finanças.
 - Pessoas que sentem dificuldade em lidar com questões financeiras, como economizar, investir ou gerenciar dinheiro.
