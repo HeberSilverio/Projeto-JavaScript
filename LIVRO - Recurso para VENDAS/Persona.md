@@ -3,8 +3,8 @@ Quero que conside as informações que te passei e crie uma persona para mim bas
 
 Nome da Persona: André Souza
 Perfil Geral:
-Idade: 32 anos
-Gênero: Masculino (pode variar para feminino)
+Idade: +30 anos
+Gênero: Masculino ou feminino
 Estado civil: Casado, pai de um filho pequeno
 Localização: Brasil, cidade de médio ou grande porte
 Formação: Ensino superior incompleto ou concluído
@@ -46,4 +46,49 @@ Objeções Possíveis (e Como o Livro Responde a Elas):
 
 🚫 “E se isso for mais um conteúdo motivacional sem resultados?”
 ✅ O livro não é apenas motivacional: ele traz estratégias e práticas testadas para reprogramar crenças financeiras.
+
+
+------------------------------------------------------------------------------------------
+
+
+🎯 Persona: Mariana Oliveira
+📌 Nome: Mariana Oliveira
+📌 Idade: 35 anos
+📌 Profissão: Gerente de Recursos Humanos
+📌 Renda mensal: R$ 7.000 – R$ 12.000
+📌 Estado civil: Casada, sem filhos
+📌 Localização: São Paulo – SP
+
+🧠 Mentalidade e Crenças Financeiras
+✔ Sempre ouviu que "dinheiro não traz felicidade", mas começou a questionar isso
+✔ Acredita que precisa trabalhar muito para ganhar bem, mas sente que algo ainda a impede de progredir
+✔ Gosta de aprender sobre desenvolvimento pessoal e finanças, mas sente que precisa de um novo mindset
+
+💰 Hábitos de Consumo e Estilo de Vida
+✔ Frequenta academia e cuida da alimentação, mas também gosta de sair para comer bem em bons restaurantes
+✔ Valoriza viagens e experiências, gosta de ir à praia e resorts nos finais de semana
+✔ Adora clubes sociais e spas, onde pode relaxar e se desconectar do trabalho
+✔ É cliente de lojas de roupas e acessórios premium, mas também gosta de comprar online
+✔ Se interessa por autoconhecimento, participa de palestras e workshops de desenvolvimento pessoal
+✔ Costuma consumir conteúdos sobre finanças pessoais e empreendedorismo, mas ainda não aplica tudo o que aprende
+
+📲 Comportamento Digital
+✔ Segue influenciadores de desenvolvimento pessoal e finanças no Instagram e YouTube
+✔ Participa de grupos no Facebook sobre carreira, mindset e organização financeira
+✔ Assina newsletters sobre produtividade, empreendedorismo e investimentos
+✔ Gosta de ler e-books e ouvir audiobooks enquanto dirige ou se exercita
+✔ Prefere comprar livros físicos, pois gosta da experiência de leitura no papel
+
+🎯 Motivações para Comprar o Livro
+✔ Quer se libertar de crenças que limitam sua vida financeira
+✔ Busca conhecimento para melhorar sua mentalidade sobre dinheiro e alcançar novos objetivos
+✔ Quer sentir mais segurança ao tomar decisões financeiras e construir um futuro próspero
+✔ Acredita que pode ter mais controle sobre sua vida financeira e quer transformar sua forma de pensar
+
+🔥 Como Abordá-la?
+✔ Mostrar que muitas das crenças sobre dinheiro que ela aprendeu podem estar impedindo seu crescimento
+✔ Apresentar o livro como uma ferramenta prática para mudar sua relação com o dinheiro
+✔ Ressaltar que o conhecimento aplicado pode trazer mais liberdade para viajar, investir e conquistar mais estabilidade financeira
+
+
 
