@@ -1,0 +1,52 @@
+TERMOS COMUNS DE UMA AGENCIA
+Follow-up
+Retrieval-Augmented Generation (RAG) — Basicamente, RAG trabalha buscando informações relevantes em uma base de dados específica. 
+
+APLICATIVOS
+Timtim usa para gerir mensagens de whatsap: https://www.kommo.com/br/
+Xdental usa zendesk para chat online
+
+
+Banco de dados: Supabase
+Agendamento: call.com
+Criar CRM: https://clickup.com/
+Orçamento, envio de proposta, assinatura de documentos: panda doc $49
+
+
+
+Fazer um sistema cíclico
+
+Vamos começar pelas maiores demandas e principalmente da área comercial
+- Atendimento
+- Qualificação SDR
+- Agendamentos
+	VALOR DA IMPLANTAÇÃO R$: 3240,00 (JUSTIFICATIVA: Custo total do funcionário	R$ 2.731,78 x 12 = 32781,36 
+	VALOR DA RECORRENCIA R$: 682,90 3x e depois apenas os custos de infraestrutura (CHATGPT como chamar isso com outro nome porque é apenas nos primeiros meses devido ao refino do sistema?)
+	Podemos ter uma recorrência 80% de infraestrutura e 20% suporte técnico (se a IA der problemas os nossos dev vai resolver (temos log e report que os dev recebem uma alerta para verificar o funcionamento das automatizações. Passar um relatório nas situações que foi necessário os desenvolvedores atuar.)
+
+BENEFÍCIOS
+- Benefícios a capacidade de atender cada vez mais pessoas diariamente sem a necessidade de contratar mais secretárias
+- Ferramenta única e personalizada para o seu negócio para sua clínica
+- Entrego a chave do castelo pra o cliente (Credencial suas, servidores seus e entrega tudo pra você e ensina o que a gente está fazendo) ou seja não vamos te amarrar com servidor próprio, com sistema nosso com recorrência
+
+Esse é uma area que fácil de ver o retorno, são areas que trazem caixa pra empresa. E através do acompanhamento a gente percebe os desafios e gargalos e começa a sugerir as automações mais apropriadas.
+
+O agente IA de atendimento e agendamento
+
+Softwares Odontológicos:
+
+1 - INDICADORES INICIAIS DA ÁREA COMERCIAL
+- Nº Contatos - Olhar quantos leads chegou no mês 
+- Nº Avaliações - Número de comparecimento nas avaliações
+- Nº Fechamentos - Número de fechamento 
+- Ticket médio (Como chama a estratégia de oferecer outro produto da clinica para um cliente) Como oferecer o procedimento estético para um paciente que já fez um tratamento odontológico.
+- Número de pacientes finalizados 
+
+
+São as informações mais relevantes para chegar na meta de faturamento.
+
+2 - INDICADORES DA ÁREA COMERCIAL
+- Custo com dentista
+- Custo com funcionário
+- Custo com laboratório
+- Custo com material
