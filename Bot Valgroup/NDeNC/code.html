@@ -1,0 +1,9 @@
+{
+  "query": "mutation UpdateFields($cardId: ID!, $documento: String!) { 
+    n1: updateCardField(input: { card_id: $cardId, field_id: \"respons_vel_3\", new_value: \"RPA Lançamento Nota Débito e Crédito\" }) { success } 
+    n2: updateCardField(input: { card_id: $cardId, field_id: \"solicita_o_aceita_1\", new_value: \"Sim\" }) { success } 
+    n3: updateCardField(input: { card_id: $cardId, field_id: \"n_mero_do_documento_gerado_no_sap\", new_value: $documento }) { success } 
+    n4: updateCardField(input: { card_id: $cardId, field_id: \"salvar_2\", new_value: \"✔️\" }) { success } 
+  }",
+  "variables": { "cardId": "$strReferenciaCard$", "documento": "$strDocumento$" }
+}
