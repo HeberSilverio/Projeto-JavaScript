@@ -1,0 +1,8 @@
+1. **Conhecimento básico de Java SE:** Entender a sintaxe básica, estruturas de controle, e tipos de dados.
+2. **Familiaridade com IDEs:** Saber utilizar ambientes de desenvolvimento integrados como Eclipse, Visual Studio Code ou IntelliJ IDEA.
+3. **Compreensão de OOP (Programação Orientada a Objetos):** Conhecer os conceitos básicos de OOP como classes, objetos, herança, e polimorfismo.
+4. **Uso básico de bibliotecas e frameworks comuns:** Conhecer bibliotecas e frameworks como JUnit para testes unitários.
+5. **Noções de bancos de dados relacionais:** Saber utilizar JDBC para conectar Java com bancos de dados.
+6. **Princípios básicos de Clean Code:** e **SOLID** Entender e aplicar práticas de codificação limpa para manter o código legível e de fácil manutenção.
+7. **Versionamento de código.**: noção básica em versionamento de código, com comandos base do Git e Git Flow.
+8. Framework Spring/Spring boot
