@@ -1,0 +1,22 @@
+Bom dia Heber, para configurar um novo grupo de telegram:
+
+1- Criar o grupo no padrão "SYN - $NomeDoBot$
+2- Adicionar o @earq_bot
+3- Encontrar o ChatId utilizando o método getUpdates -> https://api.telegram.org/bot$Telegram_Token$/getUpdates
+4- Encontrar o bloco do Json de retorno que contenha o Nome do grupo que criou e o Nome do EARQ_Bot, neste bloco tem uma chave "id:", esse id é o ChatId do novo grupo
+
+
+
+https://api.telegram.org/bot989107650:AAG5mNUhv0uYjYhLsmrTWDYsYhdL-zyDILg/getUpdates
+
+{"ok":true,"result":[{"update_id":324357920,
+"my_chat_member":{"chat":{"id":-934308138,"title":"SYN - ACCESO STOP","type":"group","all_members_are_administrators":false},"from":{"id":1620323960,"is_bot":false,"first_name":"Heber","last_name":"Silverio 118251","username":"HeberSilverio"},"date":1679580249,"old_chat_member":{"user":{"id":989107650,"is_bot":true,"first_name":"EARQ-Bot","username":"earq_bot"},"status":"left"},"new_chat_member":{"user":{"id":989107650,"is_bot":true,"first_name":"EARQ-Bot","username":"earq_bot"},"status":"member"}}},{"update_id":324357921,
+"message":{"message_id":928507,"from":{"id":1620323960,"is_bot":false,"first_name":"Heber","last_name":"Silverio 118251","username":"HeberSilverio"},"chat":{"id":-934308138,"title":"SYN - ACCESO STOP","type":"group","all_members_are_administrators":true},"date":1679580249,"group_chat_created":true}}]}
+
+
+nesse caso
+"id":-934308138
+
+
+Calculo dieta
+TelegramChatID	-763510466
