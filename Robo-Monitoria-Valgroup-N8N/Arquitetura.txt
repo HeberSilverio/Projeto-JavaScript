@@ -1,0 +1,39 @@
+Vou te passar duas mensagens com imagens para seu conhecimento e depois Preciso que você me ajude a arquitetura de uma automação no N8N. Nas primeiras mensagens apenas tome conhecimento e aguarde as solicitações das próximas mensagens.
+
+A maioria dos e-mails tem o padrão desse que passei na imagem.
+
+Este é a maneira que tinha iniciado o Primeiro fluxo atividades rotineiras. Aguarde as próxima mensagem para ver a minha solicitação
+
+
+Preciso que você me ajude a arquitetura de uma automação no N8N. Vou te falar as informações que preciso e quero que você oriente quais os nodes preciso colocar para conseguir chegar no resultado. 
+
+Preciso que a automação no N8N que leia a caixa de e-mail e preciso enviar o conteúdo dos e-mails para um banco vetorial, e depois quero fazer perguntas para um agente que consultará esse banco vetorial e me dará respostas e me ajudará a criar relatórios. E também alguns fluxos de atividade rotineiras.
+
+Primeiro Vou te passar o que já tenho e quero que você me ajude a continuar, aguarde as imagens para entender o que já tenho 
+
+1. Preciso fazer um fluxo que inicia lendo uma planilha com o nome "Monitoria Valgroup" que tem na coluna A o assunto de 20 e-mails, na coluna B a data do dia atual. Pensei em fazer um loop para cada linha da planilha e Quero que a busca no node Gmail seja com filtro do assunto e também para o dia atual a partir das 00:00:00h. A informação mais importante nesse fluxo é conseguir identificar se todas transações foram "SUCCESS", ou se tiveram "APPLICATION" e atualizar na coluna B da data do dia se foi tudo sucesso com Ok, se teve application gostaria de colocar a quantidade que está na informação "Number of robot exceptions: 1" nesse caso colocaria na coluna B 1 application.
+
+O corpo dos e-mails inicia com esse padrão:
+Bot report
+Follow the result for the Soluções Comerciais - Pedido de Venda - TOTVS/SAP process.
+Bot: PedidoVendas_B
+User: robo001
+Result: APPLICATION EXCEPTION (The robot detected an unexpected error: Line:6 | Could not find the desire window Página inicial in the specified time.)
+Start Time: 2025/04/28 13:55:36
+End Time: 2025/04/28 14:06:54
+Transactions details:
+Number of transactions processed: 6
+Number of business exceptions: 4
+Number of robot exceptions: 1
+Number of successful: 1
+
+E depois tem uma tabela html que tem 5 colunas: 
+TransactionType	
+TransactionId	
+TransactionStatus	
+TransactionExceptionType	
+TransactionExceptionDescription
+
+Na última coluna 'TransactionExceptionDescription' tem o motivo do application. Quando a linha da tabela tiver um erro application na coluna 'TransactionExceptionType', seria importante adicionar no banco de dados para cada 'TransactionId' qual foi o 'TransactionExceptionDescription' desta linhas que deram application. 
+
+Veja na imagem o modelo do e-mail e me faça 5 perguntas sobre quais as dúvidas que você tem para criar a arquitetura dessa automação no n8n
