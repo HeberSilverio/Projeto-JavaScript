@@ -1,3 +1,35 @@
+## consultar valores de salário
+levels.fyi
+techpays.eu
+LinkedIn
+job board
+código fonte
+glassdor
+
+
+### Categorização de salários no exterior
+**Menos de 5 anos: Vagas de entrada como pleno**
+
+| Nível                   | Localização   | Faixa Salarial |
+| :------------           | :------------ | :------------- |
+| Pleno (Menos de 5 anos) | USD - Canada  | $4.000 a 6.000 |
+| Pleno (Menos de 5 anos) | Alemanha      | $4.000 a 5.000 |
+| Pleno (Menos de 5 anos) | Portugal      | $2.000 a 3.000 |
+| Pleno (Menos de 5 anos) | Espanha       | $2.000 a 3.000 |
+
+**Mais de 7 anos: Vagas de entrada como pleno**
+
+| Nível                   | Localização   | Faixa Salarial |
+| :------------           | :------------ | :------------- |
+| Pleno (Menos de 5 anos) | USD - Canada  | > $6.000       |
+| Pleno (Menos de 5 anos) | Alemanha      | > $5.000       |
+| Pleno (Menos de 5 anos) | Portugal      | > $3.000       |
+| Pleno (Menos de 5 anos) | Espanha       | > $3.000       |
+
+
+Eu gostei muito da tua empresa, porque vi que vocês usam uma stack moderna, tem teste unitários que mostra que vocês tem uma cultura de engenharia, só que eu estou em outros processos seletivos e tive uma proposta X. Mas como eu disse a cultura de engenharia de vocês é muito melhor, e quero vir pra cá mas não quero ficar com a impressão que estou deixando dinheiro na mesa. O que a gente pode fazer para chegar no melhor cenário para todo mundo.
+
+
 Lugares que a pessoa deve se expor para ser encontrada
 
 - Open source (GitHub, bitbucket, stack Overflow
