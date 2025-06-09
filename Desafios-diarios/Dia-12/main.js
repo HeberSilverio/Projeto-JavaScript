@@ -30,6 +30,20 @@ document.getElementById('btnSim').addEventListener('click', function() {
   this.classList.remove('btn-primary');
   this.classList.add('btn-success');
 
+    // Seleciona a div onde o ícone será adicionado
+
+  const iconDiv = document.getElementById('icon');
+
+  // Verifica se já há um ícone e remove antes de adicionar outro
+
+  const existingIcon = iconDiv.querySelector('lord-icon');
+
+  if (existingIcon) {
+
+    existingIcon.remove();
+
+  }
+
   // Cria o elemento lord-icon
   var lordIcon = document.createElement('lord-icon');
   lordIcon.setAttribute('src', 'https://cdn.lordicon.com/gqjpawbc.json');
